@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ddotts
+  baseUrl: ddotts.github.io/quartz-library
   ignorePatterns:
     - private
     - templates
