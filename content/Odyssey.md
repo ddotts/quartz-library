@@ -4,7 +4,7 @@ aliases:
   - Mothership Odyssey
   - Potemkin 2
 created: 2026-09-16T00:13:14.222+02:00
-modified: 2026-09-18T14:20:09.515+02:00
+modified: 2026-09-19T00:19:48.239+02:00
 tags:
   - d
   - vessels
@@ -23,7 +23,6 @@ tags:
 - [[Higys System|Higys]] (AC 268)
 - [[Cthel System|Cthel]] (AC 320)
 - [[Ertes System|Ertes]] (AC 383)
-- [[Jynth System|Jynth]] (AC 412)
 - [[Godon System|Godon]] (AC 419)
 - [[Irlan Mining System|Irlan]] (AC 479)
 - [[Kilnt System|Kilnt]] (AC 566)
