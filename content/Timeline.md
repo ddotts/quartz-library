@@ -1,19 +1,20 @@
 ---
 publish: true
 created: 2026-09-16T00:13:14.404+02:00
-modified: 2026-09-18T13:04:06.550+02:00
+modified: 2026-09-18T14:11:40.767+02:00
 tags:
   - d
   - indexes
 ---
 
-# Timeline
-
-## Overview
+## Before the Astral Calendar
 
 - 1500 BP: [[Potemkin 1]] launches.
 - 1620 BP: [[Potemkin 1]] reaches [[Aldan System|Aldan]].
 - 1700 BP: The [[Odyssey|Potemkin 2]] project begins; [[Potemkin 1]] continues outward.
+
+## The Coast and early expansion
+
 - 1800 AP / AC 0: The Astral Calendar begins. Construction of [[OSP3|Potemkin 3]] starts, the first [[Blue Coast Node]] opens at [[Aldan System|Aldan]], [[Odyssey|Potemkin 2]] departs, and [[Potemkin 1]] reaches [[Barei System|Barei]].
 - AC 42: [[Odyssey|Potemkin 2]] reaches [[Barei System|Barei]] and creates a Coast node.
 - AC 65: [[Potemkin 1]] reaches [[Cthel System|Cthel]].
@@ -33,6 +34,9 @@ tags:
 - AC 419: The [[Odyssey]] reaches [[Godon System|Godon]] and creates a Coast node.
 - AC 479: The [[Odyssey]] reaches [[Irlan Mining System|Irlan]] and creates a Coast node.
 - AC 489: [[OSP3|Potemkin 3]] becomes Orbital Station Potemkin 3; the affected section remains quarantined.
+
+## Wars and new powers
+
 - AC 500–546: The [[First Galactic War]] ends with the formation of the [[Imperium]].
 - AC 566: The [[Odyssey]] reaches [[Kilnt System|Kilnt]] and creates a Coast node.
 - AC 600–697: The [[Imperial Campaign]] ends with the [[Imperium]]'s dissolution and creation of the [[Space Commerce Federation|SCF]] and [[Space Union]].
@@ -45,6 +49,9 @@ tags:
 - AC 797: The [[Nova Independence War]] begins.
 - AC 799: The [[Palade Cataclysm]] renders the planet uninhabitable; the [[Space Commerce Federation|SCF]] relocates to [[Procne]].
 - AC 855: The Corporate and Nova Independence Wars end; the [[Space Commerce Federation|SCF]] dissolves, the [[Collective Commercial Space|CCS]] forms, and Nova and [[Farspace]] gain formal independence.
+
+## Nova and the concessionary era
+
 - AC 871–876: The [[Lisden Civil War]] ends with creation of the [[Fae Court]] and confirmation of the [[Bugyn Orda|Orda]] as Protectors of Peace.
 - AC 904: The [[First CCS Summit]] is held; the [[Alliance of Worlds]] forms.
 - AC 930: [[Nightwatch]] formalization begins.
@@ -53,6 +60,9 @@ tags:
 - AC 939: The [[Nova Civil War]] begins.
 - AC 952: The [[Odyssey]] reaches the edge of the spiral and creates a Coast node.
 - AC 961: The [[Nova Civil War]] ends with [[NOX ULTRA|NOX]] control of Nova and recognition of the independent [[Bugyn Orda|Orda]]'s protective role on [[Lisden]].
+
+## Recent decades
+
 - AC 970: The [[Third CCS Summit]] and [[Plane Shift Disaster]] occur; [[DAWAN]] moves from Yüceil to Mostyn.
 - AC 975: The [[Prototype Protection Act]] passes.
 - AC 979: The [[Odyssey]] enters the [[Nodal Trough]].

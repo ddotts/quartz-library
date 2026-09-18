@@ -3,13 +3,11 @@ publish: true
 aliases:
   - Plane Shift Disaster — AC 970
 created: 2026-09-16T00:13:14.268+02:00
-modified: 2026-09-18T13:04:06.548+02:00
+modified: 2026-09-18T14:20:09.517+02:00
 tags:
   - d
   - events
 ---
-
-# Plane Shift Disaster
 
 ## Overview
 

@@ -5,13 +5,11 @@ aliases:
   - Individual ranks
   - Nightwatch ranks
 created: 2026-09-16T00:13:14.179+02:00
-modified: 2026-09-18T13:04:06.547+02:00
+modified: 2026-09-18T14:20:09.513+02:00
 tags:
   - d
   - concepts
 ---
-
-# Nightwatch Rank System
 
 ## Overview
 
