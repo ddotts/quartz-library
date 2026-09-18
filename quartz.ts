@@ -8,6 +8,7 @@ import { SafeAliases } from "./quartz/plugins/emitters/safeAliases"
 import type { QuartzPageTypePluginInstance } from "./quartz/plugins/types"
 import ReadingControls from "./quartz/components/ReadingControls"
 import RecentHistory from "./quartz/components/RecentHistory"
+import NoteAliases from "./quartz/components/NoteAliases"
 
 const config = await loadQuartzConfig()
 export default config
@@ -56,6 +57,8 @@ export const layout = await loadQuartzLayout({
 for (const pageLayout of [layout.defaults, ...Object.values(layout.byPageType)]) {
   pageLayout.header = [search, ReadingControls]
   pageLayout.footer = emptyFooter
+  const beforeBody = pageLayout.beforeBody ?? []
+  pageLayout.beforeBody = [...beforeBody, NoteAliases]
   const left = pageLayout.left ?? []
   pageLayout.left = [...left.slice(0, 1), RecentHistory, ...left.slice(1)]
 }

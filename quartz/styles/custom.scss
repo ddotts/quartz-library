@@ -11,6 +11,13 @@ html body article p {
   color: #fec;
 }
 
+.note-aliases {
+  margin: 0.5rem 0;
+  color: var(--darkgray);
+  font-size: 0.9rem;
+  overflow-wrap: anywhere;
+}
+
 body .search {
   position: relative;
   width: 100%;
