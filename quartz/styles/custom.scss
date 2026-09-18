@@ -297,6 +297,24 @@ body.searching {
 }
 
 @media all and ($mobile) {
+  .search-home > .search:has(.search-bar:focus),
+  body.searching .search-home > .search {
+    position: fixed;
+    top: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(36rem, calc(100% - 3rem));
+    z-index: 100;
+  }
+
+  html body .search > .search-container > .search-space > .search-layout {
+    > .preview-container,
+    > .results-container .result-card > .card-description,
+    > .results-container .result-card > .tags {
+      display: none;
+    }
+  }
+
   body.searching .reading-toggle {
     display: none;
   }
