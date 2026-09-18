@@ -81,8 +81,8 @@ plugins:
     enabled: true
     order: 50
     layout:
-      position: right
-      priority: 30
+      position: left
+      priority: 0
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -149,32 +149,33 @@ plugins:
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/tag-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/explorer
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
+    options:
+      localGraph:
+        showTags: false
+      globalGraph:
+        showTags: false
     layout:
       position: right
-      priority: 10
+      priority: 50
   - source: github:quartz-community/search
     enabled: true
-    layout:
-      position: left
-      priority: 20
-      group: toolbar
-      groupOptions:
-        grow: true
+    options:
+      enablePreview: false
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
       position: right
-      priority: 50
+      priority: 0
   - source: github:quartz-community/article-title
     enabled: true
     layout:
@@ -191,7 +192,7 @@ plugins:
       position: beforeBody
       priority: 30
   - source: github:quartz-community/page-title
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 10
@@ -202,7 +203,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
@@ -222,7 +223,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
@@ -230,7 +231,7 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
-    enabled: true
+    enabled: false
     options: {}
     order: 25
     layout:
@@ -250,7 +251,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
@@ -264,7 +265,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: amber-cathode
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:

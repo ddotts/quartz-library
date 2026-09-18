@@ -1,3 +1,389 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Keep Amber Cathode's accents while using cream for ordinary text.
+:root:root:root,
+:root:root:root[saved-theme] {
+  --darkgray: #fec;
+  --text-normal: #fec;
+}
+
+html body article p {
+  color: #fec;
+}
+
+body .search {
+  position: relative;
+  width: 100%;
+  min-width: 0;
+  max-width: none;
+
+  > .search-button {
+    display: none;
+  }
+
+  > .search-container {
+    display: block;
+    position: static;
+    contain: none;
+    width: 100%;
+    height: auto;
+    overflow: visible;
+    backdrop-filter: none;
+
+    > .search-space {
+      width: 100%;
+      margin: 0;
+
+      > input.search-bar {
+        margin: 0;
+        box-shadow: none;
+        color: #fec;
+        height: 3rem;
+        border: 1px solid var(--h1-color);
+      }
+
+      > input.search-bar:focus-visible {
+        outline: none;
+        border-color: #fec;
+      }
+
+      > .search-layout {
+        background: transparent;
+        border: 0;
+        box-shadow: none;
+        position: absolute;
+        top: calc(100% + 0.75rem);
+        z-index: 1000;
+        margin: 0;
+
+        > .results-container {
+          padding: 0.75rem;
+          box-sizing: border-box;
+          flex: 1 1 100%;
+          height: auto;
+          max-height: min(55vh, 28rem);
+        }
+      }
+    }
+  }
+}
+
+body[data-slug="index"] .page > #quartz-body {
+  display: block;
+  padding: 0;
+
+  > .search-home {
+    min-width: 0;
+    max-width: 36rem;
+  }
+}
+
+.search-home {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  padding-top: 28svh;
+  box-sizing: border-box;
+  min-height: 100svh;
+  width: min(36rem, calc(100% - 3rem));
+  margin: 0 auto;
+}
+
+.reading-toggle {
+  color: var(--darkgray);
+  background: transparent;
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+  padding: 0.5rem;
+  cursor: pointer;
+  white-space: nowrap;
+  font: inherit;
+  font-size: 0.8rem;
+}
+
+.reading-toggle[aria-pressed="true"] {
+  border-color: var(--secondary);
+}
+
+.page > #quartz-body {
+  .page-header {
+    margin-top: 0;
+    padding-top: 6rem;
+  }
+
+  header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    padding: 1rem 0;
+    box-sizing: border-box;
+    z-index: 100;
+    background: var(--light);
+    align-items: center;
+    flex-direction: row;
+    margin: 0;
+    gap: 1rem;
+  }
+
+  .sidebar {
+    padding-top: 2rem;
+  }
+
+  .right.sidebar > .graph {
+    margin-top: auto;
+  }
+}
+
+// Use both shell IDs to override the theme's hover-dependent sidebar fade.
+:root[reader-mode] #quartz-root > #quartz-body > .right.sidebar {
+  opacity: 1;
+}
+
+// Either sidebar reveals all secondary navigation together.
+:root[reader-mode="on"] #quartz-root > #quartz-body > .sidebar.left,
+:root[reader-mode="on"] #quartz-root > #quartz-body > .sidebar.right > .backlinks {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+:root[reader-mode="on"] #quartz-root > #quartz-body:has(> .sidebar:hover, > .sidebar:focus-within) {
+  > .sidebar.left,
+  > .sidebar.right > .backlinks {
+    opacity: 1;
+  }
+}
+
+@media all and ($desktop) {
+  .page > #quartz-body .right.sidebar > .backlinks {
+    overflow-y: auto;
+    min-height: 0;
+  }
+
+  .page > #quartz-body .right.sidebar > .graph {
+    flex-shrink: 0;
+  }
+}
+
+@media all and not ($desktop) {
+  .page > #quartz-body .right.sidebar {
+    flex-direction: column;
+  }
+}
+
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.left {
+    height: auto;
+    padding-top: 1rem;
+  }
+
+  :root[reader-mode="on"] .page > #quartz-body .sidebar.left,
+  :root[reader-mode="on"] .page > #quartz-body .sidebar.right > .backlinks {
+    display: none;
+  }
+
+  .page > #quartz-body .sidebar.right {
+    height: auto;
+    padding-top: 0;
+    padding-bottom: 2rem;
+  }
+
+  .reading-toggle {
+    font-size: 0.7rem;
+  }
+
+  .page > #quartz-body header {
+    gap: 0.5rem;
+  }
+}
+
+.recent-history {
+  width: 100%;
+  min-width: 0;
+
+  h3 {
+    font-size: 0.85rem;
+    margin: 1.5rem 0 0.5rem;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin: 0.35rem 0;
+  }
+
+  button,
+  a {
+    background: none;
+    border: 0;
+    padding: 0;
+    color: var(--darkgray);
+    font: inherit;
+    font-size: 0.9rem;
+    text-align: left;
+    cursor: pointer;
+    overflow-wrap: anywhere;
+  }
+
+  button:hover,
+  a:hover {
+    color: var(--h1-color);
+  }
+
+  .history-clear {
+    display: block;
+    grid-column: 1 / -1;
+    justify-self: end;
+    margin: 0.75rem 0 0 auto;
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+}
+
+.search-home > .search {
+  flex: none;
+}
+
+.search-home > .recent-history {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+
+  &:has(> div[hidden]) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.recent-history[hidden],
+.recent-history > [hidden] {
+  display: none;
+}
+
+.search-backdrop {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition:
+    opacity 180ms ease,
+    visibility 180ms;
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  background: rgb(0 0 0 / 65%);
+  backdrop-filter: blur(5px);
+}
+
+body.searching {
+  .search-backdrop {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  .search-home > .search {
+    z-index: 100;
+  }
+
+  .reading-toggle {
+    opacity: 0.15;
+  }
+
+  .page > #quartz-body header {
+    background: transparent;
+  }
+}
+
+@media all and ($mobile) {
+  body.searching .reading-toggle {
+    display: none;
+  }
+
+  .search-home > .recent-history {
+    grid-template-columns: 1fr;
+    gap: 0;
+
+    > div {
+      min-width: 0;
+    }
+
+    h3 {
+      margin: 0.75rem 0 0.25rem;
+      font-size: 0.75rem;
+    }
+
+    li {
+      margin: 0.125rem 0;
+    }
+
+    li a {
+      display: block;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      font-size: 0.85rem;
+      line-height: 1.25;
+    }
+
+    .history-clear {
+      margin-top: 0.25rem;
+    }
+  }
+}
+
+@media all and ($mobile) and (max-height: 500px) {
+  .search-home > .recent-history {
+    h3 {
+      margin: 0;
+      font-size: 0.7rem;
+      line-height: 1.2;
+    }
+
+    li {
+      margin: 0;
+      line-height: 1.1;
+    }
+
+    li a,
+    .history-clear {
+      font-size: 0.75rem;
+      line-height: 1.1;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .search-backdrop {
+    transition: none;
+  }
+}
+
+// Results float directly over the faded page, without panel or card chrome.
+html body .search > .search-container > .search-space > .search-layout {
+  &,
+  > .results-container,
+  > .results-container .result-card,
+  > .results-container .result-card *,
+  > .results-container .result-card:hover,
+  > .results-container .result-card:focus,
+  > .results-container .result-card.focus {
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  > .results-container .result-card.focus > h3,
+  > .results-container .result-card:focus-visible > h3 {
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+}
+
+// Add 250ms to Quartz's original 200ms hover-preview delay.
+html body .active-popover,
+html body .popover:hover {
+  animation-delay: 0.45s;
+  animation-fill-mode: both;
+}
