@@ -4,6 +4,7 @@ import { SearchHomeFrame } from "./quartz/components/frames/SearchHomeFrame"
 import { componentRegistry } from "./quartz/components/registry"
 import type { QuartzComponentConstructor } from "./quartz/components/types"
 import { PageTypeDispatcher } from "./quartz/plugins/pageTypes/dispatcher"
+import { SafeAliases } from "./quartz/plugins/emitters/safeAliases"
 import type { QuartzPageTypePluginInstance } from "./quartz/plugins/types"
 import ReadingControls from "./quartz/components/ReadingControls"
 import RecentHistory from "./quartz/components/RecentHistory"
@@ -61,5 +62,9 @@ for (const pageLayout of [layout.defaults, ...Object.values(layout.byPageType)])
 
 // The loader creates its dispatcher before these project-specific overrides.
 config.plugins.emitters = config.plugins.emitters.map((emitter) =>
-  emitter.name === "PageTypeDispatcher" ? PageTypeDispatcher(layout) : emitter,
+  emitter.name === "PageTypeDispatcher"
+    ? PageTypeDispatcher(layout)
+    : emitter.name === "AliasRedirects"
+      ? SafeAliases(emitter)
+      : emitter,
 )
