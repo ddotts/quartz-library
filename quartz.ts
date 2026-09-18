@@ -4,11 +4,26 @@ import { SearchHomeFrame } from "./quartz/components/frames/SearchHomeFrame"
 import { componentRegistry } from "./quartz/components/registry"
 import type { QuartzComponentConstructor } from "./quartz/components/types"
 import { PageTypeDispatcher } from "./quartz/plugins/pageTypes/dispatcher"
+import type { QuartzPageTypePluginInstance } from "./quartz/plugins/types"
 import ReadingControls from "./quartz/components/ReadingControls"
 import RecentHistory from "./quartz/components/RecentHistory"
 
 const config = await loadQuartzConfig()
 export default config
+
+config.plugins.pageTypes = [
+  ...(config.plugins.pageTypes ?? []),
+  {
+    name: "search-home",
+    match: () => false,
+    generate: ({ content }) =>
+      content.some(([, file]) => file.data.slug === "index")
+        ? []
+        : [{ slug: "index", title: "Search", data: { unlisted: true } }],
+    layout: "content",
+    body: () => () => null,
+  } satisfies QuartzPageTypePluginInstance,
+]
 
 const search = componentRegistry.instantiate(
   componentRegistry.get("search")!.component as QuartzComponentConstructor,
