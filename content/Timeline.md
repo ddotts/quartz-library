@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-16T00:13:14.404+02:00
-modified: 2026-09-18T14:11:40.767+02:00
+modified: 2026-09-19T00:15:53.174+02:00
 tags:
   - d
   - indexes
@@ -30,7 +30,7 @@ tags:
 - AC 320: [[OSP3|Potemkin 3]] reaches [[Ertes System|Ertes]]; the [[Odyssey]] reaches [[Cthel System|Cthel]] and creates a Coast node.
 - AC 383: The [[Odyssey]] reaches [[Ertes System|Ertes]] and creates a Coast node.
 - AC 403: [[OSP3|Potemkin 3]] reaches [[Ping]], suffers the Illithid incident, and enters quarantine.
-- AC 412: The [[Odyssey]] reaches [[Jynth System|Jynth]] and creates a Coast node.
+- AC 412: ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 - AC 419: The [[Odyssey]] reaches [[Godon System|Godon]] and creates a Coast node.
 - AC 479: The [[Odyssey]] reaches [[Irlan Mining System|Irlan]] and creates a Coast node.
 - AC 489: [[OSP3|Potemkin 3]] becomes Orbital Station Potemkin 3; the affected section remains quarantined.
