@@ -11,6 +11,21 @@ import RecentHistory from "./quartz/components/RecentHistory"
 const config = await loadQuartzConfig()
 export default config
 
+// Preserve the published map URL after restoring its native Excalidraw extension.
+config.plugins.pageTypes = config.plugins.pageTypes?.map((pageType) => {
+  if (pageType.name !== "ExcalidrawPage" || !pageType.generate) return pageType
+  const generate = pageType.generate as NonNullable<QuartzPageTypePluginInstance["generate"]>
+  return {
+    ...pageType,
+    generate: (args: Parameters<typeof generate>[0]) =>
+      generate(args).map((page) =>
+        page.slug === "averwyn-nodal-peak-simplified-map.excalidraw"
+          ? { ...page, slug: "averwyn-nodal-peak-simplified-map" }
+          : page,
+      ),
+  }
+})
+
 config.plugins.pageTypes = [
   ...(config.plugins.pageTypes ?? []),
   {
