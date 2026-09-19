@@ -1,7 +1,10 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.446+02:00
-modified: 2026-09-18T14:20:09.522+02:00
+aliases:
+  - The Federation
+  - Melissian Federation
+created: 2026-09-20T01:32:16.097+02:00
+modified: 2026-09-20T01:32:16.098+02:00
 tags:
   - d
   - organizations
@@ -18,3 +21,5 @@ Universal Federation lost control of [[Ertes System|Ertes]], [[Cthel System|Cthe
 ## Government
 
 Corporate and general political parties sit in the Senate; regional parties form the lower house. Political culture is strongly [[Eden]]-centered. Off-world citizens often identify simply as “Federation.”
+
+[[Common Language|Milessian]] is the principal Common variety of the Federation. Its prestige is tied to the Federation's age, institutions, and claim of continuity with the earliest spacefaring civilization.

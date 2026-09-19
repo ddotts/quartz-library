@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - the Throat
-created: 2026-09-16T00:13:14.382+02:00
-modified: 2026-09-18T14:10:36.645+02:00
+created: 2026-09-20T01:32:16.092+02:00
+modified: 2026-09-20T01:32:16.092+02:00
 tags:
   - d
   - locations

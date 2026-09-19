@@ -1,11 +1,15 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.291+02:00
-modified: 2026-09-18T14:20:09.517+02:00
+created: 2026-09-20T01:32:16.075+02:00
+modified: 2026-09-20T01:36:37.512+02:00
 tags:
   - d
   - worlds
 ---
+
+- **Population:** Approximately 230 million residents.
+- **Languages:** [[Common Language|Common (Union)]] 80%; [[Deresian|Belter Deresian]] 70%; [[Deresian|Union Deresian]] 52%; [[Common Language|Common (Milessian)]] 40%.
+- **Beliefs:** [[Tsuiseki|Followers of the Path]] 6%; [[Her Church of Light|Her Church of Light]] 7%; [[The Moiety]] 5%; local traditions 11%; atheism 71%.
 
 ## Overview
 
@@ -30,4 +34,4 @@ Several major [[Collective Commercial Space|CCS]] corporations are based here or
 
 ## Technical careers
 
-[[Ruby Abyss]] recruits engineers from lower-income communities, providing one path into professional and upper-level technical work while also transferring skilled personnel to a corporation operationally centered on the distant [[Odyssey]]. [[DAWAN]] and [[Good Doctor]] both began here before seeking safer or more strategic headquarters, leaving their supply chains and rivalries embedded in the planet even after executive departure.
+[[Ruby Abyss]] recruits engineers from lower-income communities, providing one path into professional and upper-level technical work while also transferring skilled personnel to a corporation operationally centered on the distant [[The Odyssey]]. [[DAWAN]] and [[Good Doctor]] both began here before seeking safer or more strategic headquarters, leaving their supply chains and rivalries embedded in the planet even after executive departure.

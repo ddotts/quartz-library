@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Imperial Campaign — AC 600–697
-created: 2026-09-16T00:13:14.076+02:00
-modified: 2026-09-18T14:10:36.628+02:00
+created: 2026-09-20T01:32:16.034+02:00
+modified: 2026-09-20T01:32:16.034+02:00
 tags:
   - d
   - events

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.298+02:00
-modified: 2026-09-18T14:20:09.518+02:00
+created: 2026-09-20T01:32:16.077+02:00
+modified: 2026-09-20T01:32:16.077+02:00
 tags:
   - d
   - organizations
@@ -18,3 +18,7 @@ The [[Broken Isles]] do not pay the service fee. Red Feather nevertheless contin
 ## Care and logistics
 
 Field medics are the only personnel able to open planar portals into the Red Feather demiplane. Hospitaller chapter-houses provide logistics at [[Blue Coast Node|Blue Coast nodes]]. [[deGraf's]] privately supplies unbranded prosthetics for patients who could not otherwise obtain them.
+
+## The central chamber
+
+The demiplane's central chamber is a hemisphere organized around a vast gear mechanism holding the [[Tome of Living Legends]]. The legendary [[Doctor Achu]], a member of the [[Spine of the World]], placed the Tome there as Red Feather's central database when the demiplane was created.

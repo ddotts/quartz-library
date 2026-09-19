@@ -3,19 +3,23 @@ publish: true
 aliases:
   - Deres System
   - Deres System — Broken Isles
-created: 2026-09-16T00:13:13.855+02:00
-modified: 2026-09-18T14:20:09.502+02:00
+created: 2026-09-20T01:32:16.005+02:00
+modified: 2026-09-20T01:36:37.436+02:00
 tags:
   - d
   - regions
 ---
 
+- **Population:** Approximately 760 million residents across the surviving fragments and overlapping planes.
+- **Languages:** [[Deresian|Islandic Deresian]] 78%; [[Deresian|Union Deresian]] 64%; [[Deresian|Belter Deresian]] 58%; [[Deresian|Pilgrim Deresian]] 32%; [[Common Language|Common (Union)]] 28%.
+- **Beliefs:** [[Tsuiseki|Followers of the Path]] 20%; [[Her Church of Light|Her Church of Light]] 18%; [[The Moiety]] 8%; local traditions 31%; atheism 24%.
+
 ## Overview
 
 The Broken Isles belong to the [[Space Union]], though [[Collective Commercial Space|CCS]] extraction concessions give corporations extensive influence there.
 
-- **First arrival:** [[Odyssey|Potemkin 2]], AC 105 (node).
-- **Blue Coast node:** AC 105 ([[Odyssey|Potemkin 2]]).
+- **First arrival:** [[The Odyssey|Potemkin 2]], AC 105 (node).
+- **Blue Coast node:** AC 105 ([[The Odyssey|Potemkin 2]]).
 
 ## The fragmented system
 
@@ -33,9 +37,13 @@ North, South, East, and [[West Sea]] are practical names for regions of a three-
 
 ## Pilgrimage and politics
 
-[[Odyssey|Potemkin 2]]'s humanitarian work here led directly to the [[Lighting of the Path]] in AC 119, making Deres foundational to the [[Tsuiseki]] despite the extensive influence [[Collective Commercial Space|CCS]] institutions exercise through concessions, finance, and administrative relationships. Calendar reconciliation remains politically charged even after average time flow matched the prime material plane. Dates before AC 100 can be locally valid but mutually incompatible, allowing ancient [[Cofradia]] claims and modern CCS extraction contracts to rely on different chronologies. The four Seas differ considerably in accessibility and political conditions. The South contains the principal routes to [[Transpace]], the North borders unexplored [[Farspace]], the East is the main theater of armed opposition to CCS concessions, and the West receives little CCS investment.
+[[The Odyssey|Potemkin 2]]'s humanitarian work here led directly to the [[Lighting of the Path]] in AC 119, making Deres foundational to the [[Tsuiseki]] despite the extensive influence [[Collective Commercial Space|CCS]] institutions exercise through concessions, finance, and administrative relationships. Calendar reconciliation remains politically charged even after average time flow matched the prime material plane. Dates before AC 100 can be locally valid but mutually incompatible, allowing ancient [[Cofradia]] claims and modern CCS extraction contracts to rely on different chronologies. The four Seas differ considerably in accessibility and political conditions. The South contains the principal routes to [[Transpace]], the North borders unexplored [[Farspace]], the East is the main theater of armed opposition to CCS concessions, and the West receives little CCS investment.
 
 Communities descended from different collapsed planes may share a navigational region without sharing an origin or historical chronology. Several Deresian members of the [[Alliance of Worlds]] dispute the representativeness of the Confederation because [[Collective Commercial Space|CCS]] personnel occupy much of its administration.
+
+## Languages
+
+[[Deresian]] developed from the contact among communities drawn from different planes and historical chronologies after the collapse that formed the Isles. Islandic varieties remain locally diverse, while Belter, Union, and Pilgrim Deresian connect the region respectively to mobile labor, CCS administration, and the [[Tsuiseki]].
 
 ## Connected notes
 

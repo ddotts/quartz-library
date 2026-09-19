@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Irlan
-created: 2026-09-16T00:13:14.089+02:00
-modified: 2026-09-18T14:20:09.508+02:00
+created: 2026-09-20T01:32:16.038+02:00
+modified: 2026-09-20T01:37:34.891+02:00
 tags:
   - d
   - systems
@@ -11,7 +11,7 @@ tags:
 
 ## Overview
 
-- **Blue Coast node:** AC 479 (The [[Odyssey]]).
+- **Blue Coast node:** AC 479 ([[The Odyssey]]).
 
 Irlan Mining System is under [[Collective Commercial Space|CCS]] extraction rights.
 
@@ -21,7 +21,7 @@ From a distance, Irlan resembles a loose constellation of stripped asteroids, du
 
 ## Extraction and conquest
 
-Irlan's defining fact is political: the [[Imperium]] invaded it at the start of the [[Imperial Campaign]] for its resources, and it is now again subject to [[Collective Commercial Space|CCS]] extraction rights. The [[Odyssey]] created its Coast node in AC 479, placing the system on the network before the [[First Galactic War]] but long before the CCS existed. Modern extraction can therefore rely on infrastructure that predates the current concession and on claims inherited through Imperium and [[Space Commerce Federation|SCF]] corporations.
+Irlan's defining fact is political: the [[Imperium]] invaded it at the start of the [[Imperial Campaign]] for its resources, and it is now again subject to [[Collective Commercial Space|CCS]] extraction rights. [[The Odyssey]] created its Coast node in AC 479, placing the system on the network before the [[First Galactic War]] but long before the CCS existed. Modern extraction can therefore rely on infrastructure that predates the current concession and on claims inherited through Imperium and [[Space Commerce Federation|SCF]] corporations.
 
 ## Power in the stations
 

@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - DeGraf's
-created: 2026-09-16T00:13:13.915+02:00
-modified: 2026-09-18T14:20:09.524+02:00
+created: 2026-09-20T01:32:16.106+02:00
+modified: 2026-09-20T01:32:16.106+02:00
 tags:
   - d
   - corporations
@@ -11,7 +11,7 @@ tags:
 
 ## Overview
 
-deGraf's is a family-owned company founded in 1432 BP by an [[Avergwyn]] line of surgeons and technomages. deGraf's produces civilian and transport vehicles, industrial equipment, appliances, medical devices, prosthetics, specialized components, and most weapon categories. Officially headquartered on [[Typhon]] for logistical reasons, with its largest industrial presence on [[Tybalt]].
+deGraf's is a family-owned company founded in 1432 AP by an [[Avergwyn]] line of surgeons and technomages. deGraf's produces civilian and transport vehicles, industrial equipment, appliances, medical devices, prosthetics, specialized components, and most weapon categories. Officially headquartered on [[Typhon]] for logistical reasons, with its largest industrial presence on [[Tybalt]].
 
 ## Engineering in unstable conditions
 

@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Trinity
-created: 2026-09-16T00:13:14.427+02:00
-modified: 2026-09-18T14:20:09.521+02:00
+created: 2026-09-20T01:32:16.095+02:00
+modified: 2026-09-20T01:37:34.806+02:00
 tags:
   - d
   - organizations
@@ -11,7 +11,7 @@ tags:
 
 ## Overview
 
-The Trinity is the governing leadership of the [[Tsuiseki]] and its Chapel aboard the [[Odyssey]]. Each member leads one of the order's three elite arms, creating a government that combines military, investigative, and humanitarian authority.
+The Trinity is the governing leadership of the [[Tsuiseki]] and its Chapel aboard [[The Odyssey]]. Each member leads one of the order's three elite arms, creating a government that combines military, investigative, and humanitarian authority.
 
 ## Members
 

@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - the Coast
-created: 2026-09-16T00:13:13.830+02:00
-modified: 2026-09-18T14:20:09.502+02:00
+created: 2026-09-20T01:32:16.004+02:00
+modified: 2026-09-20T01:36:37.415+02:00
 tags:
   - d
   - regions
@@ -15,7 +15,9 @@ The Blue Coast is an FTL ring network stretching from [[Aldan System|Aldan]] to 
 
 ## How the network works
 
-The rings use technology similar to [[ATP Jump Drive|ATP jump drives]], scaled to create teleportation circles several kilometers wide. Each circle is anchored to joined asteroids large enough to carry the ley lines that sustain the ring and its shipyards. Blue Coast travel depends on compatible navigation hardware. [[Ruby Abyss]] holds the only commercial license for those packages, turning a [[Tsuiseki]]-built public route into one of the [[Collective Commercial Space|CCS]]'s most consequential technical dependencies. The Coast displaced generation ships as the normal means of expansion, but it did not eliminate conventional interstellar travel. [[Weiß]], the [[Haulers Guild]], independent couriers, and smugglers still maintain slower routes that can bypass the nodes.
+The rings use technology similar to [[ATP Jumps|ATP jump drives]], scaled to create teleportation circles several kilometers wide. Each circle is anchored to joined asteroids large enough to carry the ley lines that sustain the ring and its shipyards. Blue Coast travel depends on compatible navigation hardware. [[Ruby Abyss]] holds the only commercial license for those packages, turning a [[Tsuiseki]]-built public route into one of the [[Collective Commercial Space|CCS]]'s most consequential technical dependencies. The Coast displaced generation ships as the normal means of expansion, but it did not eliminate conventional interstellar travel. [[Weiß]], the [[Haulers Guild]], independent couriers, and smugglers still maintain slower routes that can bypass the nodes.
+
+Travel through the Coast can require route-specific authorization. The network is also used for sensitive or volatile cargo that cannot safely endure conventional long-distance travel.
 
 ## Aid and authority
 
@@ -23,4 +25,4 @@ Every major node supports a Hospitaller chapter-house and, through it, [[Red Fea
 
 ## Connected notes
 
-- [[Odyssey]]
+- [[The Odyssey]]

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.156+02:00
-modified: 2026-09-18T14:20:09.513+02:00
+created: 2026-09-20T01:32:16.061+02:00
+modified: 2026-09-20T01:36:37.508+02:00
 tags:
   - d
   - regions
@@ -13,7 +13,7 @@ The origin of our spacefaring civilization. Nearspace is the oldest zone of the 
 
 ## The first infrastructure
 
-The region contains the [[Rotator Stations]], the origin of all three Potemkin-class motherships, and the first [[Blue Coast Node]]. Its strategic importance comes as much from shipbuilding and historical legitimacy as from population. Nearspace's institutions predate the [[Imperium]], the [[Space Union]], and the [[Collective Commercial Space|CCS]], so disputes here often turn on competing continuities rather than newly written charters.
+The region contains [[Avergwyn]], where [[Potemkin 1]] was built, and the [[Rotator Stations]], where [[The Odyssey|Potemkin 2]] and [[OSP3|Potemkin 3]] were built. It also contains the first [[Blue Coast Node]]. Its strategic importance comes as much from shipbuilding and historical legitimacy as from population. Nearspace's institutions predate the [[Imperium]], the [[Space Union]], and the [[Collective Commercial Space|CCS]], so disputes here often turn on competing continuities rather than newly written charters.
 
 ## Connected notes
 

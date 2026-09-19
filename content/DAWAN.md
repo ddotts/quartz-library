@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-16T00:13:13.911+02:00
-modified: 2026-09-18T14:20:09.504+02:00
+created: 2026-09-20T01:32:16.012+02:00
+modified: 2026-09-20T01:32:16.013+02:00
 tags:
   - d
   - corporations

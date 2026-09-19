@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Godon
-created: 2026-09-16T00:13:14.055+02:00
-modified: 2026-09-18T14:20:09.507+02:00
+created: 2026-09-20T01:32:16.030+02:00
+modified: 2026-09-20T01:37:34.893+02:00
 tags:
   - d
   - systems
@@ -12,10 +12,10 @@ tags:
 ## Overview
 
 - **First arrival:** [[Potemkin 1]], AC 253; [[OSP3|Potemkin 3]], AC 256.
-- **Blue Coast node:** AC 419 (The [[Odyssey]]).
+- **Blue Coast node:** AC 419 ([[The Odyssey]]).
 - **Faction history:** continuously part of the [[Universal Federation]]; heavily contested during the [[Imperial Campaign]].
 
-[[Eden]] is the capital of both [[Transpace]] and the [[Universal Federation]]. [[Potemkin 1]] reached Godon in AC 253 and [[OSP3|Potemkin 3]] followed in AC 256, but the [[Blue Coast Node]] technology was not ready until the later visit of the [[Odyssey]] in AC 419. Eden was the first planet encountered with environments comparable to [[Avergwyn]]. Federation settlers made it their new home, and Godon has remained part of the Universal Federation ever since.
+[[Eden]] is the capital of both [[Transpace]] and the [[Universal Federation]]. [[Potemkin 1]] reached Godon in AC 253 and [[OSP3|Potemkin 3]] followed in AC 256, but the [[Blue Coast Node]] technology was not ready until the later visit of [[The Odyssey]] in AC 419. Eden was the first planet encountered with environments comparable to [[Avergwyn]]. Federation settlers made it their new home, and Godon has remained part of the Universal Federation ever since.
 
 ## Political and economic roles
 

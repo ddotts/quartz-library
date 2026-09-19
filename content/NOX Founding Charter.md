@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - NOX charter
-created: 2026-09-16T00:13:14.205+02:00
-modified: 2026-09-18T14:10:36.633+02:00
+created: 2026-09-20T01:32:16.060+02:00
+modified: 2026-09-20T01:32:16.060+02:00
 tags:
   - d
   - laws-and-treaties

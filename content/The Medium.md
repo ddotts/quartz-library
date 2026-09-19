@@ -2,12 +2,16 @@
 publish: true
 aliases:
   - Medium
-created: 2026-09-16T00:13:14.377+02:00
-modified: 2026-09-18T14:20:09.520+02:00
+created: 2026-09-20T01:32:16.091+02:00
+modified: 2026-09-20T01:32:16.091+02:00
 tags:
   - d
   - worlds
 ---
+
+- **Population:** No residents, stations, or associated population.
+- **Languages:** Not applicable.
+- **Beliefs:** Not applicable.
 
 ## Overview
 

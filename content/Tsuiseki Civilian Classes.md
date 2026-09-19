@@ -4,8 +4,8 @@ aliases:
   - Pilgrims
   - Protected
   - Squires
-created: 2026-09-16T00:13:14.424+02:00
-modified: 2026-09-18T14:20:09.521+02:00
+created: 2026-09-20T01:32:16.094+02:00
+modified: 2026-09-20T01:37:34.817+02:00
 tags:
   - d
   - concepts
@@ -13,7 +13,7 @@ tags:
 
 ## Overview
 
-[[Tsuiseki]] society recognizes three civilian classes whose members live alongside the order's elite arms aboard the [[Odyssey]] without sharing the same duties, status, or beliefs.
+[[Tsuiseki]] society recognizes three civilian classes whose members live alongside the order's elite arms aboard [[The Odyssey]] without sharing the same duties, status, or beliefs.
 
 ## Classes
 

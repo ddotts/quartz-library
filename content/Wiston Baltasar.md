@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Pirate King Wiston Baltasar
-created: 2026-09-16T00:13:14.474+02:00
-modified: 2026-09-18T14:10:36.648+02:00
+created: 2026-09-20T01:32:16.105+02:00
+modified: 2026-09-20T01:32:16.105+02:00
 tags:
   - d
   - people

@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Capital Ship Gala
-created: 2026-09-16T00:13:14.047+02:00
-modified: 2026-09-18T14:20:09.507+02:00
+created: 2026-09-20T01:32:16.028+02:00
+modified: 2026-09-20T01:32:16.029+02:00
 tags:
   - d
   - vessels

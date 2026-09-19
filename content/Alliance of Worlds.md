@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-16T00:13:13.803+02:00
-modified: 2026-09-18T14:20:09.501+02:00
+created: 2026-09-20T01:32:15.991+02:00
+modified: 2026-09-20T01:32:15.991+02:00
 tags:
   - d
   - organizations

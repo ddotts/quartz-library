@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - CCS
-created: 2026-09-16T00:13:13.888+02:00
-modified: 2026-09-18T14:20:09.503+02:00
+created: 2026-09-20T01:32:16.008+02:00
+modified: 2026-09-20T01:32:16.009+02:00
 tags:
   - d
   - corporations
@@ -31,10 +31,10 @@ Collective Commercial Space is headquartered in [[Procne]] and holds extraction 
 - [[Good Doctor]]
 - [[Vineflare]]
 - [[Ruby Abyss]]
+- [[deGraf's]]
 
 **Minor members**
 
-- [[deGraf's]]
 - [[James Jonastile Group]]
 - [[Embrace Group]]
 - [[Silver Meridian]]
@@ -53,6 +53,10 @@ Collective Commercial Space is headquartered in [[Procne]] and holds extraction 
 Most senior CCS administrators are current or former personnel of [[Weiß]], [[Stinson's]], [[DAWAN]], [[Cofradia]], or the Bank. Decisions use revenue-weighted voting; the [[Universal Credit Bank]] holds disproportionate influence. The CCS Summits occurred in AC 904, 933, and 970.
 
 [[OSP3]] is its principal trade hub between [[Farspace]] and [[Transpace]]. Its [[Vanguard Corps|Vanguard]] security apparatus was built from the remnants of the [[Space Commerce Federation|SCF]] military. Summit locations rotate between member headquarters.
+
+## Languages
+
+The Imperial variety of [[Common Language|Common]] is increasingly called Union within the CCS, referring to the Union of Commerce and symbolically distancing the organization from its Imperial inheritance. [[Deresian|Union Deresian]] is a co-official CCS language, reflecting the importance of [[Cofradia]] and other Deresian institutions as well as the CCS's extensive concessions in the [[Broken Isles]].
 
 ## Connected notes
 

@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Murder of Emily Montenegro — AC 984
-created: 2026-09-16T00:13:14.151+02:00
-modified: 2026-09-18T14:20:09.512+02:00
+created: 2026-09-20T01:32:16.059+02:00
+modified: 2026-09-20T01:32:16.059+02:00
 tags:
   - d
   - events

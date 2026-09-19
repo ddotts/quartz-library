@@ -1,11 +1,15 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.439+02:00
-modified: 2026-09-18T14:20:09.521+02:00
+created: 2026-09-20T01:32:16.096+02:00
+modified: 2026-09-20T01:32:16.096+02:00
 tags:
   - d
   - worlds
 ---
+
+- **Population:** Approximately 700 million residents.
+- **Languages:** [[Common Language|Common (Union)]] 84%; [[Deresian|Belter Deresian]] 40%; [[Common Language|Common (Milessian)]] 22%; [[Common Language|Common (Dindessian)]] 8%; [[Deresian|Islandic Deresian]] 40%.
+- **Beliefs:** [[Tsuiseki|Followers of the Path]] 11%; [[Her Church of Light|Her Church of Light]] 6%; [[The Moiety]] 8%; local traditions 17%; atheism 58%.
 
 ## Overview
 
@@ -17,7 +21,7 @@ Typhon resembles a dull iron cinder, broken only by the illuminated rings of its
 
 ## The hollow world
 
-Hollow interior; center contains a nano-sun — an arcane 1cm sun that makes the inside habitable. [[deGraf's]] ([[Collective Commercial Space|CCS]] corporation, family-held, founded 1432 BP) is officially headquartered here due to its shipment agreements with the CCS, [[Space Union]], and Nova — though its major industrial presence is in [[Tybalt]] ([[Firan System]]). Typhon is a small hereditary order of Imperial loyalists (a few dozen old families who keep the [[Redmond Daeson|Daeson]] genealogy) has met annually inside Typhon's hollow interior for two centuries since the [[Imperium]]'s dissolution (AC 697). Modern intelligence assessments do not classify the order as a security threat, while employment records connect some of its archivists to CCS legal departments specializing in historical case law.
+Hollow interior; center contains a nano-sun — an arcane 1cm sun that makes the inside habitable. [[deGraf's]] ([[Collective Commercial Space|CCS]] corporation, family-held, founded 1432 AP) is officially headquartered here due to its shipment agreements with the CCS, [[Space Union]], and Nova — though its major industrial presence is in [[Tybalt]] ([[Firan System]]). Typhon is a small hereditary order of Imperial loyalists (a few dozen old families who keep the [[Redmond Daeson|Daeson]] genealogy) has met annually inside Typhon's hollow interior for two centuries since the [[Imperium]]'s dissolution (AC 697). Modern intelligence assessments do not classify the order as a security threat, while employment records connect some of its archivists to CCS legal departments specializing in historical case law.
 
 ## Settlement
 

@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Kilnt
-created: 2026-09-16T00:13:14.101+02:00
-modified: 2026-09-18T14:20:09.509+02:00
+created: 2026-09-20T01:32:16.042+02:00
+modified: 2026-09-20T01:37:34.889+02:00
 tags:
   - d
   - systems
@@ -11,7 +11,7 @@ tags:
 
 ## Overview
 
-- **Blue Coast node:** AC 566 (The [[Odyssey]]).
+- **Blue Coast node:** AC 566 ([[The Odyssey]]).
 
 Kilnt pairs two radically different inhabited worlds: cold, lightly populated [[Demeter]] and oceanic, industrially productive [[Nereid]]. [[Tartarus]] and [[Desponia]] place incarceration and information infrastructure at opposite poles of Demeter, while Nereid supplies organic matter, oil, and preserved food through [[Newland–Yuriel]]. The system joined [[Blue Coast|the Coast]] in AC 566, during the opening decades of the [[Imperium]] and before the [[Space Union]] existed; its infrastructure has therefore served several political orders.
 

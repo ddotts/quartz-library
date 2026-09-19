@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Corporate War and Nova Independence War — AC 727–855
-created: 2026-09-16T00:13:13.894+02:00
-modified: 2026-09-18T14:20:09.503+02:00
+created: 2026-09-20T01:32:16.010+02:00
+modified: 2026-09-20T01:32:16.010+02:00
 tags:
   - d
   - events

@@ -2,12 +2,16 @@
 publish: true
 aliases:
   - The Supervoid
-created: 2026-09-16T00:13:14.366+02:00
-modified: 2026-09-18T14:20:09.520+02:00
+created: 2026-09-20T01:32:16.088+02:00
+modified: 2026-09-20T01:32:16.089+02:00
 tags:
   - d
   - worlds
 ---
+
+- **Population:** No residents on the body; approximately 12,000 people live at nearby [[Kirin Station]].
+- **Languages:** At Kirin Station, [[Deresian|Pilgrim Deresian]] 44%; [[Common Language|Common (Union)]] 40%; [[Deresian|Islandic Deresian]] 38%; [[Common Language|Common (Milessian)]] 25%.
+- **Beliefs:** At Kirin Station, [[Tsuiseki|Followers of the Path]] 9%; [[Her Church of Light|Her Church of Light]] 7%; [[The Moiety]] 12%; local traditions 17%; atheism 55%.
 
 ## Overview
 

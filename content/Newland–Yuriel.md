@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Newland-Yuriel
-created: 2026-09-16T00:13:14.164+02:00
-modified: 2026-09-18T14:10:36.634+02:00
+created: 2026-09-20T01:32:16.062+02:00
+modified: 2026-09-20T01:32:16.062+02:00
 tags:
   - d
   - corporations

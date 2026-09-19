@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.176+02:00
-modified: 2026-09-18T14:20:09.513+02:00
+created: 2026-09-20T01:32:16.063+02:00
+modified: 2026-09-20T01:32:16.064+02:00
 tags:
   - d
   - organizations
@@ -9,7 +9,7 @@ tags:
 
 ## Overview
 
-Nightwatch began as a citizen militia and became [[NOX ULTRA|NOX]]'s principal military and security force. Nightwatch operates as a federation of Companies. Each captain retains control of their crew while accepting a shared charter, communications standard, and command structure. Nightwatch began formalizing around AC 930 after the wars of the previous century.
+Nightwatch began with adventurers cooperating to protect Nova and became [[NOX ULTRA|NOX]]'s principal military and security force. That origin gives independent adventurers and sponsored [[Free Companies]] unusual public legitimacy even when they operate outside the formal chain of command. Nightwatch operates as a federation of Companies. Each captain retains control of their crew while accepting a shared charter, communications standard, and command structure. Nightwatch began formalizing around AC 930 after the wars of the previous century.
 
 ## Formalization
 
@@ -18,6 +18,8 @@ Formalization introduced clearer Company contracts and institutional command pro
 ## The civil war and piracy
 
 Older Companies often opposed those arrangements, but the new bureaucracy also slowed responses to piracy around [[Lisden]]. The [[Nova Civil War]] was used to justify both tighter integration among Companies and a stronger central command. The [[Free Companies]] form a broad alliance of mostly independent mercenary crews and provide one route into full Company status.
+
+The reformed Nightwatch registers independent crews as Free Companies. Registered crews retain operational independence while accepting periodic oversight.
 
 ## Recruitment
 

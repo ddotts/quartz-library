@@ -1,11 +1,15 @@
 ---
 publish: true
-created: 2026-09-16T00:13:13.979+02:00
-modified: 2026-09-18T14:20:09.505+02:00
+created: 2026-09-20T01:32:16.022+02:00
+modified: 2026-09-20T01:32:16.022+02:00
 tags:
   - d
   - worlds
 ---
+
+- **Population:** No confirmed residents since the Watchers' silence; the last-known population was approximately 600.
+- **Languages:** Among the last-known population, [[Deresian|Pilgrim Deresian]] 60%; [[Common Language|Common (Union)]] 45%; [[Common Language|Common (Milessian)]] 35%; [[Deresian|Belter Deresian]] 25%.
+- **Beliefs:** Among the last-known population, [[Tsuiseki|Followers of the Path]] 10%; [[Her Church of Light|Her Church of Light]] 7%; [[The Moiety]] 13%; local traditions 18%; atheism 52%.
 
 ## Overview
 

@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Palade Cataclysm — AC 799
-created: 2026-09-16T00:13:14.252+02:00
-modified: 2026-09-18T14:10:36.637+02:00
+created: 2026-09-20T01:32:16.070+02:00
+modified: 2026-09-20T01:32:16.070+02:00
 tags:
   - d
   - events

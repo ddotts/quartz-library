@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Followers of the Path
   - The Astral Gate
-created: 2026-09-16T00:13:14.422+02:00
-modified: 2026-09-18T14:20:09.521+02:00
+created: 2026-09-20T01:33:15.229+02:00
+modified: 2026-09-20T01:37:34.770+02:00
 tags:
   - d
   - organizations
@@ -12,7 +12,7 @@ tags:
 
 ## Overview
 
-Tsuiseki is a religious civilization traveling toward the center of the universe aboard the [[Odyssey|Mothership Odyssey]]. Tsuiseki was founded aboard Potemkin 2 after the [[Lighting of the Path]] in AC 119. The vessel was subsequently renamed the Odyssey. Its founders were scientists, mages, and former members of the [[Astral Lighthouse]]. They continued that order's mission of protecting the material universe from extraplanar threats.
+Tsuiseki is a religious civilization traveling toward the center of the universe aboard the [[The Odyssey|Mothership Odyssey]]. Tsuiseki was founded aboard Potemkin 2 after the [[Lighting of the Path]] in AC 119. The vessel was subsequently renamed the Odyssey. Its founders were scientists, mages, and former members of the [[Astral Lighthouse]]. They continued that order's mission of protecting the material universe from extraplanar threats.
 
 ## Neutrality and intervention
 
@@ -32,11 +32,21 @@ The Chapel governs the Tsuiseki through the [[Tsuiseki Trinity|Trinity]]:
 
 ## A traveling nation
 
-The [[Odyssey]] is both their capital ship and traveling nation, although not everyone aboard is a believer. The Tsuiseki created most of the [[Blue Coast]], the FTL-node network linking the systems visited during their pilgrimage. The network begins at [[Aldan System|Aldan]] and reaches the edge of the spiral. They maintain political and humanitarian influence at the nodes without claiming the systems around them.
+[[The Odyssey]] is both their capital ship and traveling nation, although not everyone aboard is a believer. The Tsuiseki created most of the [[Blue Coast]], the FTL-node network linking the systems visited during their pilgrimage. The network begins at [[Aldan System|Aldan]] and reaches the edge of the spiral. They maintain political and humanitarian influence at the nodes without claiming the systems around them.
 
 ## Ruby Abyss
 
-[[Ruby Abyss]] acts as their de facto manufacturing arm. It is officially headquartered on [[Quamridge Mass]] but operates unofficially from the [[Odyssey]] and holds the only commercial license for [[Blue Coast Navigation Package|Blue Coast-compatible navigation packages]].
+[[Ruby Abyss]] acts as their de facto manufacturing arm. It is officially headquartered on [[Quamridge Mass]] but operates unofficially from [[The Odyssey]] and holds the only commercial license for [[Blue Coast Navigation Package|Blue Coast-compatible navigation packages]].
+
+## Pilgrim Deresian
+
+[[Deresian|Pilgrim Deresian]] developed through [[The Odyssey]] and the humanitarian mission in the [[Broken Isles]]. Its spread through successive [[Blue Coast Node|Coast nodes]] makes it a marker of Tsuiseki service, scholarship, and pilgrimage far beyond Deres.
+
+## Demographics
+
+Approximately **830 million people** are Followers of the Path across the surveyed planetary residents and associated populations around AC 998. This estimate excludes people aboard major ships and artificial habitats that were not assigned local religious shares, and it does not count [[Eoccenon]]'s last-known or [[Palade]]'s historical population as current members.
+
+The largest estimated populations outside of [[The Odyssey]] are on [[Eden]] at about 180 million, the [[Broken Isles]] at about 152 million, and [[Avergwyn]] at about 87 million. Followers of the Path have its highest local shares in the Broken Isles at 20%, [[Ping]] at 14%, and Eden and [[Tybalt]] at 12% each.
 
 ## Connected notes
 

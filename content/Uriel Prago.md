@@ -1,10 +1,10 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.451+02:00
-modified: 2026-09-18T14:10:36.647+02:00
+created: 2026-09-20T01:32:16.099+02:00
+modified: 2026-09-20T01:32:16.099+02:00
 tags:
   - d
   - people
 ---
 
-Uriel Prago died during the [[Plane Shift Disaster]] at [[Dome Yüceil]] in AC 970.
+Uriel Prago represented the [[Broken Isles]] for the [[Alliance of Worlds]] during the [[Third CCS Summit]]. Prago died during the summit's [[Plane Shift Disaster]] at [[Dome Yüceil]] in AC 970.

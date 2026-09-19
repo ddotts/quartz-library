@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Plane Shift Disaster — AC 970
-created: 2026-09-16T00:13:14.268+02:00
-modified: 2026-09-18T14:20:09.517+02:00
+created: 2026-09-20T01:32:16.072+02:00
+modified: 2026-09-20T01:32:16.072+02:00
 tags:
   - d
   - events
@@ -19,9 +19,25 @@ The Plane Shift Disaster occurred during the [[Third CCS Summit]] in AC 970, whe
 - [[Scarlet Jones]]
 - [[Uriel Prago]]
 
+One public report also lists [[Bernard Stinson]] as confirmed dead, while other records list him as missing. His canonical fate remains unresolved.
+
+## Survivors
+
+- [[Alexa Arasta]]
+- [[Joe Smith]]
+- [[Hieronymous Roen]]
+- [[William Bright]]
+- [[Salva Milay]]
+- [[Abel Hawkins]]
+- [[Martha Vineflare]]
+- [[Magda Exxet]]
+- [[Wallace de Graf]]
+- [[Montgomery Anderson]]
+- [[Nicolav Fortseniza]]
+
 ## Missing
 
 - [[Maximilian Godfield]]
 - [[Daenelae Laesan]]
-- [[Bernard Stinson]]
 - [[Morrigan Din]]
+- [[Karuna]]

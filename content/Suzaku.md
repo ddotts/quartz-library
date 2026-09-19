@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Capital Ship Suzaku
-created: 2026-09-16T00:13:14.369+02:00
-modified: 2026-09-18T14:20:09.520+02:00
+created: 2026-09-20T01:32:16.089+02:00
+modified: 2026-09-20T01:32:16.089+02:00
 tags:
   - d
   - vessels

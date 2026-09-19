@@ -3,8 +3,8 @@ publish: true
 aliases:
   - CCS concessionary governance
   - concessionary governance
-created: 2026-09-16T00:13:13.872+02:00
-modified: 2026-09-18T14:10:36.623+02:00
+created: 2026-09-20T01:32:16.006+02:00
+modified: 2026-09-20T01:32:16.006+02:00
 tags:
   - d
   - concepts

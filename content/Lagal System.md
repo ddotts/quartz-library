@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Lagal
-created: 2026-09-16T00:13:14.111+02:00
-modified: 2026-09-18T14:20:09.509+02:00
+created: 2026-09-20T01:32:16.043+02:00
+modified: 2026-09-20T01:32:16.044+02:00
 tags:
   - d
   - systems

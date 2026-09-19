@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.461+02:00
-modified: 2026-09-18T14:20:09.522+02:00
+created: 2026-09-20T01:32:16.102+02:00
+modified: 2026-09-20T01:32:16.102+02:00
 tags:
   - d
   - corporations
@@ -9,7 +9,7 @@ tags:
 
 ## Overview
 
-Vineflare was founded on [[Avergwyn]] in 1390 BP and descended from Margaret Vineflare's enterprise. Vineflare is headquartered on [[Sator]] from AC 97 to 700 and on [[Eden]] thereafter. Vineflare supplies civilian and transport vehicles, power systems, reactors, capital ships, combat equipment, and the classic Federation elemental and meteor weapon lines.
+Vineflare was founded on [[Avergwyn]] in 1390 AP and descended from Margaret Vineflare's enterprise. Vineflare is headquartered on [[Sator]] from AC 97 to 700 and on [[Eden]] thereafter. Vineflare supplies civilian and transport vehicles, power systems, reactors, capital ships, combat equipment, and the classic Federation elemental and meteor weapon lines.
 
 ## From generation ships to CCS
 

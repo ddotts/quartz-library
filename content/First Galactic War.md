@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - First Galactic War — AC 500–546
-created: 2026-09-16T00:13:14.037+02:00
-modified: 2026-09-18T14:20:09.506+02:00
+created: 2026-09-20T01:32:16.027+02:00
+modified: 2026-09-20T01:32:16.027+02:00
 tags:
   - d
   - events

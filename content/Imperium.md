@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.081+02:00
-modified: 2026-09-18T14:20:09.508+02:00
+created: 2026-09-20T01:32:16.034+02:00
+modified: 2026-09-20T01:32:16.035+02:00
 tags:
   - d
   - organizations
@@ -18,6 +18,8 @@ Expanded into neighboring systems during the [[Imperial Campaign]] of AC 600–6
 ## Law and symbols
 
 Used an inverted-Y emblem representing its founding systems. The mark remains visible on Imperial-era structures. Codified its law in the [[Daeson Directive]], portions of which survived through [[Space Commerce Federation|SCF]] corporations and remain persuasive precedent in [[Collective Commercial Space|CCS]] courts. [[Godon System|Godon]] remained under [[Universal Federation]] control, [[Cthel System|Cthel]] and [[Higys System|Higys]] remained independent, and [[Ertes System|Ertes]] retained the industrial complex that seeded the SCF.
+
+The Imperium spread the Imperial variety of [[Common Language|Common]] through its member systems, military, and administration. That linguistic legacy survived the state's dissolution through the [[Space Commerce Federation|SCF]] and [[Collective Commercial Space|CCS]].
 
 ## Imperial loyalists
 

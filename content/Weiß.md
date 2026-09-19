@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Weiss
-created: 2026-09-16T00:13:14.468+02:00
-modified: 2026-09-18T14:20:09.523+02:00
+created: 2026-09-20T01:32:16.103+02:00
+modified: 2026-09-20T01:32:16.104+02:00
 tags:
   - d
   - corporations
@@ -11,7 +11,7 @@ tags:
 
 ## Overview
 
-Weiß is the oldest and wealthiest [[Collective Commercial Space|CCS]] member, founded in 1398 BP. Weiß produces premium goods across most sectors and operates logistics, private transport, and combat fleets. Weiß was investigated for possible [[Space Commerce Federation|SCF]] involvement, but the available evidence did not meet the standard required for postwar sanctions.
+Weiß is the oldest and wealthiest [[Collective Commercial Space|CCS]] member, founded in 1398 AP. Weiß produces premium goods across most sectors and operates logistics, private transport, and combat fleets. Weiß was investigated for possible [[Space Commerce Federation|SCF]] involvement, but the available evidence did not meet the standard required for postwar sanctions.
 
 ## Storage and the Gala
 

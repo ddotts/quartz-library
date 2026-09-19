@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Vineflare Heirloom Series weapons
-created: 2026-09-16T00:13:14.462+02:00
-modified: 2026-09-18T14:10:36.647+02:00
+created: 2026-09-20T01:32:16.102+02:00
+modified: 2026-09-20T01:32:16.102+02:00
 tags:
   - d
   - artifacts

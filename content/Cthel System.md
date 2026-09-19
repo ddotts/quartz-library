@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Cthel
-created: 2026-09-16T00:13:13.903+02:00
-modified: 2026-09-18T14:20:09.503+02:00
+created: 2026-09-20T01:32:16.011+02:00
+modified: 2026-09-20T01:37:34.897+02:00
 tags:
   - d
   - systems
@@ -17,12 +17,12 @@ A black hole occupies the place of Cthel’s sun.
 
 The system's center appears as a perfectly black disk bordered by a narrow blue-white ring, with the surrounding stars stretched into bright arcs around it.
 
-- **First arrival:** [[Potemkin 1]], AC 65 (no node); [[Blue Coast Node]]: AC 320 (The [[Odyssey]]).
+- **First arrival:** [[Potemkin 1]], AC 65 (no node); [[Blue Coast Node]]: AC 320 ([[The Odyssey]]).
 - **Faction history:** part of [[Imperium]] (AC 546–697); part of [[Space Commerce Federation|SCF]] (AC 697–855); [[Republic of Cthel]] now an independent [[Space Union]] member — not under [[Universal Federation]] control.
 
 ## Life under a black-hole sun
 
-Cthel's black-hole center and [[Typhon]]'s artificial nano-sun make the system's inhabited environment dependent on unusual cosmology rather than an ordinary star. [[Potemkin 1]] arrived in AC 65, but [[Blue Coast|the Coast]] node came with the [[Odyssey]] in AC 320, leaving a long period of contact before routine network travel. Cthel passed from independence war to [[Imperium]] to [[Space Commerce Federation|SCF]], then emerged after AC 855 as an independent republic and [[Space Union]] member rather than returning to the [[Universal Federation]].
+Cthel's black-hole center and [[Typhon]]'s artificial nano-sun make the system's inhabited environment dependent on unusual cosmology rather than an ordinary star. [[Potemkin 1]] arrived in AC 65, but [[Blue Coast|the Coast]] node came with [[The Odyssey]] in AC 320, leaving a long period of contact before routine network travel. Cthel passed from independence war to [[Imperium]] to [[Space Commerce Federation|SCF]], then emerged after AC 855 as an independent republic and [[Space Union]] member rather than returning to the [[Universal Federation]].
 
 ## Political weight
 

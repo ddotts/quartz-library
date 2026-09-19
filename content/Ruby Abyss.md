@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.324+02:00
-modified: 2026-09-18T14:20:09.519+02:00
+created: 2026-09-20T01:32:16.081+02:00
+modified: 2026-09-20T01:37:34.849+02:00
 tags:
   - d
   - corporations
@@ -9,7 +9,7 @@ tags:
 
 ## Overview
 
-Ruby Abyss was founded in AC 858 and led by [[Magda Exxet]] since AC 941. Ruby Abyss supplies navigation, computation, communications, hacking, counterintelligence, motorbikes, bare-metal firearms, and limited laser weapons. Officially headquartered on [[Quamridge Mass]] but unofficially based aboard the [[Odyssey]].
+Ruby Abyss was founded in AC 858 and led by [[Magda Exxet]] since AC 941. Ruby Abyss supplies navigation, computation, communications, hacking, counterintelligence, motorbikes, bare-metal firearms, and limited laser weapons. Officially headquartered on [[Quamridge Mass]] but unofficially based aboard [[The Odyssey]].
 
 ## The Tsuiseki connection
 

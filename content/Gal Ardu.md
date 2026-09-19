@@ -1,10 +1,10 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.043+02:00
-modified: 2026-09-18T14:10:36.627+02:00
+created: 2026-09-20T01:32:16.028+02:00
+modified: 2026-09-20T01:32:16.028+02:00
 tags:
   - d
   - people
 ---
 
-Gal Ardu died during the [[Plane Shift Disaster]] at [[Dome Yüceil]] in AC 970.
+Gal Ardu was the akhmad chosen to represent the Orda Lulong at the [[Third CCS Summit]]. Ardu died during the summit's [[Plane Shift Disaster]] at [[Dome Yüceil]] in AC 970.

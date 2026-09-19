@@ -5,8 +5,8 @@ aliases:
   - Ospe
   - Ospe Station
   - Potemkin 3
-created: 2026-09-16T00:13:14.239+02:00
-modified: 2026-09-18T14:20:09.515+02:00
+created: 2026-09-20T01:32:16.067+02:00
+modified: 2026-09-20T01:37:34.887+02:00
 tags:
   - d
   - vessels
@@ -26,4 +26,4 @@ Its hull preserves several political eras at once: construction at the [[Rotator
 
 ## A fixed mothership
 
-Its origin alongside [[Potemkin 1]] and the [[Odyssey]] makes OSP3 a secular counterpart to the two surviving motherships: fixed, commercial, and radically repurposed.
+Its origin alongside [[Potemkin 1]] and [[The Odyssey]] makes OSP3 a secular counterpart to the two surviving motherships: fixed, commercial, and radically repurposed.

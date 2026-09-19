@@ -1,11 +1,15 @@
 ---
 publish: true
-created: 2026-09-16T00:13:14.251+02:00
-modified: 2026-09-18T14:20:09.516+02:00
+created: 2026-09-20T01:32:16.071+02:00
+modified: 2026-09-20T01:32:16.071+02:00
 tags:
   - d
   - worlds
 ---
+
+- **Population:** No current residents; the demographic profile below describes Palade's final pre-cataclysm population.
+- **Languages:** In the final pre-cataclysm population, [[Common Language|Common (Imperial)]] 92%; [[Deresian|Belter Deresian]] 28%; [[Common Language|Common (Milessian)]] 18%.
+- **Beliefs:** In the final pre-cataclysm population, [[Tsuiseki|Followers of the Path]] 11%; [[Her Church of Light|Her Church of Light]] 8%; [[The Moiety]] 14%; local traditions 18%; atheism 49%.
 
 ## Overview
 
