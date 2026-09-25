@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-09-20T01:32:16.075+02:00
-modified: 2026-09-20T01:36:37.512+02:00
+created: 2026-09-23T14:04:54.329+02:00
+modified: 2026-09-23T22:37:04.766+02:00
 tags:
   - d
   - worlds
 ---
 
 - **Population:** Approximately 230 million residents.
-- **Languages:** [[Common Language|Common (Union)]] 80%; [[Deresian|Belter Deresian]] 70%; [[Deresian|Union Deresian]] 52%; [[Common Language|Common (Milessian)]] 40%.
+- **Languages:** [[Common Language|Common (Bloc)]] 80%; [[Deresian|Belter Deresian]] 70%; [[Deresian|Bloc Deresian]] 52%; [[Common Language|Common (Milessian)]] 40%.
 - **Beliefs:** [[Tsuiseki|Followers of the Path]] 6%; [[Her Church of Light|Her Church of Light]] 7%; [[The Moiety]] 5%; local traditions 11%; atheism 71%.
 
 ## Overview

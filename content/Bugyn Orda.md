@@ -4,7 +4,7 @@ aliases:
   - Orda
   - Бугын Орд
 created: 2026-09-20T01:32:16.005+02:00
-modified: 2026-09-20T01:32:16.005+02:00
+modified: 2026-09-23T13:00:39.847+02:00
 tags:
   - d
   - organizations
@@ -12,7 +12,7 @@ tags:
 
 ## Overview
 
-Bugyn Orda is an independent alliance of former pirates, mercenaries, and other groups under the astral dragon [[Burkhan Luu Buga]]. Allied with [[NOX ULTRA|NOX]] but historically hostile to old-world powers. Bugyn Orda fought with NOX against the [[Space Commerce Federation|SCF]], then fought NOX over [[Nough System|Nough]] during the [[Nova Civil War]].
+Bugyn Orda is an independent alliance of former pirates, mercenaries, and other groups under the astral dragon [[Burkhan Luu Buga]]. Allied with [[NOX ULTRA|NOX]] but historically hostile to the [[Established Order|old-world powers]]. Bugyn Orda fought with NOX against the [[Space Commerce Federation|SCF]], then fought NOX over [[Nough System|Nough]] during the [[Nova Civil War]].
 
 ## The peace with NOX
 
@@ -32,4 +32,6 @@ The Orda divided internally during the war. [[Burkhan Luu Buga|The Burkhan]]'s d
 
 ## Connected notes
 
+- [[New Frontier Powers]]
+- [[Established Order]]
 - [[Dragonbrood]]

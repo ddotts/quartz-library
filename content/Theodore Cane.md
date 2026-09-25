@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.092+02:00
-modified: 2026-09-20T01:32:16.092+02:00
+modified: 2026-09-25T15:17:53.834+02:00
 tags:
   - d
   - people

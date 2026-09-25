@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Sator & Opera
 created: 2026-09-20T01:32:16.083+02:00
-modified: 2026-09-20T01:36:37.743+02:00
+modified: 2026-09-25T14:33:51.935+02:00
 tags:
   - d
   - worlds
@@ -21,7 +21,9 @@ tags:
 
 ## A paired industrial system
 
-The binary arrangement places habitable but volcanic [[Sator]] beside resource-rich, uninhabitable [[Opera]], allowing the [[Rotator Stations]] to draw labor and material from the same tightly coupled environment. The Rotator Stations are the largest shipyard in known space and the birthplace of the second and third Potemkin motherships. Their importance predates both the [[Universal Federation]] and the [[Space Union]]. [[Vineflare]] was headquartered on Sator from AC 97 to AC 700, overlapping the Potemkin program and tying its later generation-ship division directly to [[Aldan System|Aldan]]'s industrial base.
+The binary arrangement places habitable but volcanic [[Sator]] beside resource-rich, uninhabitable [[Opera]], allowing the [[Rotator Stations]] to draw labor and material from the same tightly coupled environment. The Rotator Stations are the largest shipyard in known space and the birthplace of the second and third Potemkin motherships. Their importance predates both the [[Universal Federation]] and the [[Space Union]].
+
+Migration from [[Schil]] supplied much of the early workforce and brought technical associations, mutual aid societies, and firms such as [[deGraf's]] into Aldan. [[Vineflare]] was headquartered on Sator from AC 97 to AC 700, overlapping the Potemkin program and tying its later generation-ship division directly to the system's industrial base.
 
 ## The end of generation ships
 

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Firan
 created: 2026-09-20T01:32:16.026+02:00
-modified: 2026-09-20T01:37:34.894+02:00
+modified: 2026-09-23T13:02:28.126+02:00
 tags:
   - d
   - systems
@@ -12,9 +12,9 @@ tags:
 ## Overview
 
 - **Blue Coast node:** AC 205 ([[The Odyssey]]).
-- **Firan Confederation:** [[Space Union]] member; under [[Collective Commercial Space|CCS]] extraction rights.
+- **Firan Confederation:** [[Space Union]] and [[Concessionary Bloc]] member; under [[Collective Commercial Space|CCS Consortium]] extraction rights.
 
-The [[Firan Confederation]] represents both [[Tybalt]] and [[Quamridge Mass]] in the [[Space Union]] while [[Collective Commercial Space|CCS]] extraction rights reach across two radically unequal planetary societies. Tybalt's unstable magnetic field favors resilient and analog technologies; Quamridge's heavy industry supports arcane-tech spires, corporate manufacturing, and a racialized labor order. The contrast makes the Confederation structurally dependent: Tybalt supplies formal political representation while Quamridge supplies much of the industrial wealth that corporate interests can use to shape it.
+The [[Firan Confederation]] represents both [[Tybalt]] and [[Quamridge Mass]] in the [[Space Union]] and the Concessionary Bloc, while CCS Consortium extraction rights reach across two radically unequal planetary societies. Tybalt's unstable magnetic field favors resilient and analog technologies; Quamridge's heavy industry supports arcane-tech spires, corporate manufacturing, and a racialized labor order. The contrast makes the Confederation structurally dependent: Tybalt supplies formal political representation while Quamridge supplies much of the industrial wealth that corporate interests can use to shape it.
 
 ## Corporate interests
 

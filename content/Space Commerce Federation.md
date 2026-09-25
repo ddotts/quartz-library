@@ -3,7 +3,7 @@ publish: true
 aliases:
   - SCF
 created: 2026-09-20T01:32:16.085+02:00
-modified: 2026-09-20T01:32:16.086+02:00
+modified: 2026-09-23T23:39:33.953+02:00
 tags:
   - d
   - organizations
@@ -19,6 +19,6 @@ Space Commerce Federation fought the [[Space Union]], [[NOX ULTRA|NOX]], and the
 
 ## Corporate continuity
 
-Member corporations retained legal personhood, allowing the [[Collective Commercial Space|CCS]] to become a practical continuity vehicle within months. Captured SCF capital frames later became the [[Khan]] and [[Zizek]]. The [[Treaty of Independence of Farspace]] prohibited the restoration of SCF governmental authority. Whether later CCS concessions reproduce the form of control prohibited by the treaty remains a continuing legal and political dispute.
+Member corporations retained legal personhood, allowing the [[Collective Commercial Space|CCS Consortium]] to become a practical continuity vehicle within months. Captured SCF capital frames later became the [[Khan]] and [[Zizek]]. The [[Treaty of Independence of Farspace]] prohibited the restoration of SCF governmental authority. Whether the later [[Concessionary Bloc]] reproduces the form of control prohibited by the treaty remains a continuing legal and political dispute.
 
-The SCF also preserved the Imperial variety of [[Common Language|Common]] across its corporations, officer corps, and legal institutions, helping it survive between the Imperium and the modern CCS.
+The SCF preserved Imperial administrative practice across its corporations, officer corps, courts, and professional schools. This continuity allowed Imperial assumptions about rank, property, and commercial authority to pass into the modern CCS even after the treaty prohibited restoration of the old government.

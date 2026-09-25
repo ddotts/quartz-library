@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Capital Ship Suzaku
 created: 2026-09-20T01:32:16.089+02:00
-modified: 2026-09-20T01:32:16.089+02:00
+modified: 2026-09-23T13:56:04.344+02:00
 tags:
   - d
   - vessels
@@ -15,4 +15,4 @@ Suzaku is the [[South Sea]]'s capital ship, combining regional government, convo
 
 ## The cost of keeping it running
 
-The current concessionary order creates a structural conflict of interest: the corporate network capable of keeping Suzaku operational also holds extraction rights that the ship may be required to administer or protect.
+The [[Concessionary Bloc|current concessionary order]] creates a structural conflict of interest: the [[Collective Commercial Space|CCS Consortium]] network capable of keeping Suzaku operational also holds extraction rights that the ship may be required to administer or protect.

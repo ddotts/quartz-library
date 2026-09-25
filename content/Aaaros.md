@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-09-20T01:32:15.987+02:00
-modified: 2026-09-20T01:32:15.988+02:00
+created: 2026-09-23T14:04:54.335+02:00
+modified: 2026-09-23T14:04:54.335+02:00
 tags:
   - d
   - worlds
 ---
 
 - **Population:** Approximately 500,000 resident and rotating salvage or research personnel.
-- **Languages:** [[Common Language|Common (Union)]] 68%; [[Common Language|Common (Milessian)]] 55%; [[Deresian|Belter Deresian]] 46%; [[Common Language|Common (Dindessian)]] 15%.
+- **Languages:** [[Common Language|Common (Bloc)]] 68%; [[Common Language|Common (Milessian)]] 55%; [[Deresian|Belter Deresian]] 46%; [[Common Language|Common (Dindessian)]] 15%.
 - **Beliefs:** [[Tsuiseki|Followers of the Path]] 8%; [[Her Church of Light|Her Church of Light]] 6%; [[The Moiety]] 9%; local traditions 10%; atheism 67%.
 
 ## Overview

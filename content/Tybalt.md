@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-09-20T01:32:16.096+02:00
-modified: 2026-09-20T01:32:16.096+02:00
+created: 2026-09-23T14:04:54.327+02:00
+modified: 2026-09-25T14:33:51.946+02:00
 tags:
   - d
   - worlds
 ---
 
 - **Population:** Approximately 330 million residents.
-- **Languages:** [[Deresian|Belter Deresian]] 68%; [[Common Language|Common (Union)]] 60%; [[Deresian|Union Deresian]] 38%; [[Common Language|Common (Milessian)]] 34%; [[Common Language|Common (Dindessian)]] 10%.
+- **Languages:** [[Deresian|Belter Deresian]] 68%; [[Common Language|Common (Bloc)]] 60%; [[Deresian|Bloc Deresian]] 38%; [[Common Language|Common (Milessian)]] 34%; [[Common Language|Common (Dindessian)]] 10%.
 - **Beliefs:** [[Tsuiseki|Followers of the Path]] 12%; [[Her Church of Light|Her Church of Light]] 24%; [[The Moiety]] 5%; local traditions 11%; atheism 48%.
 
 ## Overview
@@ -25,7 +25,7 @@ Magnetic field fluctuates and flips frequently, heavily limiting technological i
 
 ## Technology and survival
 
-Frequent magnetic reversals expose Tybalt to solar wind and make ordinary electronics unreliable, rewarding the bare-metal and mechanically resilient technologies associated with [[deGraf's]] and [[Ruby Abyss]]. deGraf's major industrial presence here follows directly from that environment: its hydraulics, repair network, and specialized legacy parts remain useful when more integrated magitech systems fail. [[Faswell–Kron]] and [[BLACK LABEL]] are also based on Tybalt, giving the planet [[Collective Commercial Space|CCS]] interests in extraction, construction, sport, and consumer culture alongside the Confederation government.
+Frequent magnetic reversals expose Tybalt to solar wind and make ordinary electronics unreliable, rewarding the bare-metal and mechanically resilient technologies associated with [[deGraf's]] and [[Ruby Abyss]]. deGraf's major industrial presence here follows directly from that environment: its hydraulics, repair network, and specialized legacy parts remain useful when more integrated magitech systems fail. The expansion turned an old [[Schil]] family company into one of the principal industrial institutions of the modern CCS. [[Faswell–Kron]] and [[BLACK LABEL]] are also based on Tybalt, giving the planet [[Collective Commercial Space|CCS]] interests in extraction, construction, sport, and consumer culture alongside the Confederation government.
 
 ## Infrastructure
 

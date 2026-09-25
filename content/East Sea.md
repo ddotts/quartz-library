@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.018+02:00
-modified: 2026-09-20T01:32:16.018+02:00
+modified: 2026-09-23T13:59:08.005+02:00
 tags:
   - d
   - locations
@@ -13,4 +13,4 @@ East Sea's designation is cartographic, defined relative to [[Supervoid|the Supe
 
 ## Political movements
 
-Many of these groups operate through or alongside the [[Alliance of Worlds]]. They share opposition to [[Collective Commercial Space|CCS]] extraction concessions, although their territorial claims and preferred political settlements differ. Confederation forces conduct most security operations. [[Vanguard Corps|Vanguard]] task forces have also intervened during major escalations, although neither the CCS nor the Confederation consistently publishes the scope of their deployments. Hostilities alternate with extended periods of ordinary trade and travel. Territorial disputes and armed organizations remain active during some of these intervals.
+Many of these groups operate through or alongside the [[Alliance of Worlds]]. They share opposition to the [[Concessionary Bloc|concessionary order]], including [[Collective Commercial Space|CCS Consortium]] extraction rights, although their territorial claims and preferred political settlements differ. Confederation forces conduct most security operations. [[Vanguard Corps|Vanguard]] task forces have also intervened during major escalations, although neither the Consortium nor the Confederation consistently publishes the scope of their deployments. Hostilities alternate with extended periods of ordinary trade and travel. Territorial disputes and armed organizations remain active during some of these intervals.

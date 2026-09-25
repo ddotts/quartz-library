@@ -4,7 +4,7 @@ aliases:
   - New Church of Morrigan
   - The Church
 created: 2026-09-20T01:32:16.032+02:00
-modified: 2026-09-20T01:32:16.033+02:00
+modified: 2026-09-25T15:17:53.732+02:00
 tags:
   - d
   - organizations
@@ -13,6 +13,10 @@ tags:
 The Church of Light is the continuation of the Church of Morrigan founded on [[Avergwyn]]. It is also known as Her Church of Light, the New Church of Morrigan, and simply the Church.
 
 Modern doctrine recognizes Morrigan as an [[Ascended Godhood|Ascended God]] and emphasizes individual goodness and her exemplary life. It also teaches that Morrigan reincarnates and searches for her successors. The recognized line is Morrigan (1000 BP–0 BP), Francesca Morrigan (AC 120–300), Dolores Morrigan (AC 715–present), and Eileen Morrigan (AC 980–present).
+
+## Diaspora institutions
+
+The Church spread through [[Din]] and its communities beyond [[Avergwyn]]. Its schools, charitable houses, clergy, festivals, and succession rites remain principal carriers of Dindessian culture. Local congregations adapt to the worlds where they live while preserving institutional ties to Din and the recognized line of Morrigan.
 
 ## Demographics
 

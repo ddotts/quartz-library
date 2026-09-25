@@ -2,8 +2,10 @@
 publish: true
 aliases:
   - CCS
+  - The Consortium
+  - The CCS Consortium
 created: 2026-09-20T01:32:16.008+02:00
-modified: 2026-09-20T01:32:16.009+02:00
+modified: 2026-09-23T14:07:03.655+02:00
 tags:
   - d
   - corporations
@@ -11,15 +13,15 @@ tags:
 
 ## Overview
 
-Collective Commercial Space is a private union of major corporations and the [[Universal Credit Bank]], formed after the [[Space Commerce Federation|SCF]]'s AC 855 defeat. Collective Commercial Space has no treaty status and is not formally a government. Collective Commercial Space exercises substantial influence within several legally sovereign [[Farspace]] governments through extraction concessions, credit relationships, infrastructure agreements, security contracts, and the participation of corporate personnel in public administration.
+Collective Commercial Space is a consortium: a private union of major corporations and the [[Universal Credit Bank]], formed after the [[Space Commerce Federation|SCF]]'s AC 855 defeat. The CCS Consortium has no treaty status and is not formally a government. Its concessions, credit relationships, infrastructure agreements, security contracts, and corporate personnel supply the institutional basis of the [[Concessionary Bloc]].
 
-## Concessionary governance
+## The Concessionary Bloc
 
-This arrangement is commonly described in legal and academic writing as [[CCS Concessionary Governance]]. The term covers systems that retain formal sovereignty and [[Space Union]] representation while granting CCS institutions sustained influence over public policy or administration. The degree of concessionary dependence varies by system. CCS publications generally describe these relationships as commercial integration or partnership; the [[Alliance of Worlds]] and other critics use terms including corporate capture and puppet rule. All [[Farspace]] systems remain members of the Space Union.
+The [[Concessionary Bloc]] comprises sovereign governments operating under varying degrees of CCS concessionary governance. The Consortium and Bloc are closely connected but legally distinct: the Consortium is the association of private institutions, while the Bloc is the political alignment of the governments shaped by their concessions. Those governments retain [[Space Union]] representation. CCS publications generally describe the relationship as commercial integration or partnership; the [[Alliance of Worlds]] and other critics use terms including corporate capture and puppet rule.
 
 ## Territory and members
 
-Collective Commercial Space is headquartered in [[Procne]] and holds extraction rights across [[Farspace]] and the [[Broken Isles]].
+Collective Commercial Space is headquartered in [[Procne]] and holds extraction rights across [[Farspace]] and the [[Broken Isles]]. It also holds twenty percent of the extraction rights in [[Irlan Mining System|Irlan]], with the [[Universal Federation]] holding the remaining eighty percent.
 
 **Major members**
 
@@ -54,12 +56,10 @@ Most senior CCS administrators are current or former personnel of [[Weiß]], [[S
 
 [[OSP3]] is its principal trade hub between [[Farspace]] and [[Transpace]]. Its [[Vanguard Corps|Vanguard]] security apparatus was built from the remnants of the [[Space Commerce Federation|SCF]] military. Summit locations rotate between member headquarters.
 
-## Languages
-
-The Imperial variety of [[Common Language|Common]] is increasingly called Union within the CCS, referring to the Union of Commerce and symbolically distancing the organization from its Imperial inheritance. [[Deresian|Union Deresian]] is a co-official CCS language, reflecting the importance of [[Cofradia]] and other Deresian institutions as well as the CCS's extensive concessions in the [[Broken Isles]].
-
 ## Connected notes
 
+- [[Concessionary Bloc]]
+- [[Established Order]]
 - [[Universal Credit Bank]]
 - [[Vineflare]]
 - [[Ruby Abyss]]

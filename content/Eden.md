@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-09-20T01:32:16.019+02:00
-modified: 2026-09-20T01:32:16.019+02:00
+created: 2026-09-23T14:04:54.333+02:00
+modified: 2026-09-25T14:19:01.272+02:00
 tags:
   - d
   - worlds
 ---
 
 - **Population:** Approximately 1.50 billion residents.
-- **Languages:** [[Common Language|Common (Milessian)]] 94%; [[Common Language|Common (Union)]] 38%; [[Common Language|Common (Dindessian)]] 18%; [[Deresian|Belter Deresian]] 10%.
+- **Languages:** [[Common Language|Common (Milessian)]] 94%; [[Common Language|Common (Bloc)]] 38%; [[Common Language|Common (Dindessian)]] 18%; [[Deresian|Belter Deresian]] 10%.
 - **Beliefs:** [[Tsuiseki|Followers of the Path]] 12%; [[Her Church of Light|Her Church of Light]] 6%; [[The Moiety]] 11%; local traditions 9%; atheism 62%.
 
 ## Overview
@@ -25,7 +25,7 @@ Capital of [[Transpace]] and the [[Universal Federation]]. Eden is the capital o
 
 ## Political symbolism
 
-The planet's similarity to [[Avergwyn]] reinforces the [[Universal Federation]]'s claim to inherit the old Melissian project, but it also invites comparison with the separate [[Federation of Avergwyn and Aldan]]. The AC 546 peace ending the [[First Galactic War]] was signed on Eden even though [[Palade]] became the new [[Imperium]]'s capital; the treaties ending the Corporate and Nova Independence Wars were also signed here in AC 855. Eden's authority is repeatedly exercised through postwar settlements: it formalized the loss of three systems in AC 546 and the destruction of the [[Space Commerce Federation|SCF]] plus Nova's independence in AC 855. Its diplomats frame this as constitutional durability; its rivals frame it as the Federation's ability to write the history of wars it did not win alone.
+The planet's similarity to [[Avergwyn]] reinforces the [[Universal Federation]]'s claim to inherit the old Melissian project, but it also invites comparison with the separate [[Confederation of Avergwyn and Aldan]]. The AC 546 peace ending the [[First Galactic War]] was signed on Eden even though [[Palade]] became the new [[Imperium]]'s capital; the treaties ending the Corporate and Nova Independence Wars were also signed here in AC 855. Eden's authority is repeatedly exercised through postwar settlements: it formalized the loss of three systems in AC 546 and the destruction of the [[Space Commerce Federation|SCF]] plus Nova's independence in AC 855. Its diplomats frame this as constitutional durability; its rivals frame it as the Federation's ability to write the history of wars it did not win alone.
 
 ## Magical scholarship
 

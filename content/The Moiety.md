@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Church of the Anima
 created: 2026-09-20T01:32:16.091+02:00
-modified: 2026-09-20T01:32:16.091+02:00
+modified: 2026-09-23T23:48:55.384+02:00
 tags:
   - d
   - organizations

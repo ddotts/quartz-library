@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-09-20T01:32:16.096+02:00
-modified: 2026-09-20T01:32:16.096+02:00
+created: 2026-09-23T14:04:54.327+02:00
+modified: 2026-09-25T14:33:51.954+02:00
 tags:
   - d
   - worlds
 ---
 
 - **Population:** Approximately 700 million residents.
-- **Languages:** [[Common Language|Common (Union)]] 84%; [[Deresian|Belter Deresian]] 40%; [[Common Language|Common (Milessian)]] 22%; [[Common Language|Common (Dindessian)]] 8%; [[Deresian|Islandic Deresian]] 40%.
+- **Languages:** [[Common Language|Common (Bloc)]] 84%; [[Deresian|Belter Deresian]] 40%; [[Common Language|Common (Milessian)]] 22%; [[Common Language|Common (Dindessian)]] 8%; [[Deresian|Islandic Deresian]] 40%.
 - **Beliefs:** [[Tsuiseki|Followers of the Path]] 11%; [[Her Church of Light|Her Church of Light]] 6%; [[The Moiety]] 8%; local traditions 17%; atheism 58%.
 
 ## Overview
@@ -25,7 +25,7 @@ Hollow interior; center contains a nano-sun — an arcane 1cm sun that makes the
 
 ## Settlement
 
-The hollow interior is roughly spherical and large enough to hold an entire civilisation. There is some population in the surface in the space stations that were the first settlements before the interior of the planet was explored and the nano-sun stabilised. The nano-sun is an arcane construct of unknown origin. Some archaeologists attribute it to the Umbra; surviving Imperial records document its later stabilization by [[Imperium]] engineers.
+The hollow interior is roughly spherical and large enough to hold an entire civilisation. The first permanent communities grew from station crews and settlers arriving through [[Sator]] after [[Potemkin 1]] reached Cthel. Their [[Schil]] ancestry established mutual aid associations and secular traditions still visible beneath modern Bloc culture. There is also a population on the surface in the space stations that preceded exploration of the interior and stabilization of the nano-sun. The nano-sun is an arcane construct of unknown origin. Some archaeologists attribute it to the Umbra; surviving Imperial records document its later stabilization by [[Imperium]] engineers.
 
 ## Interior climate and access
 

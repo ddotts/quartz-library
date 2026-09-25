@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cthel
 created: 2026-09-20T01:32:16.011+02:00
-modified: 2026-09-20T01:37:34.897+02:00
+modified: 2026-09-25T14:34:34.521+02:00
 tags:
   - d
   - systems
@@ -24,9 +24,13 @@ The system's center appears as a perfectly black disk bordered by a narrow blue-
 
 Cthel's black-hole center and [[Typhon]]'s artificial nano-sun make the system's inhabited environment dependent on unusual cosmology rather than an ordinary star. [[Potemkin 1]] arrived in AC 65, but [[Blue Coast|the Coast]] node came with [[The Odyssey]] in AC 320, leaving a long period of contact before routine network travel. Cthel passed from independence war to [[Imperium]] to [[Space Commerce Federation|SCF]], then emerged after AC 855 as an independent republic and [[Space Union]] member rather than returning to the [[Universal Federation]].
 
+## Settlement from Sator
+
+Much of Cthel's early settlement followed Potemkin 1 from [[Sator]] rather than arriving directly from [[Avergwyn]]. Cthel's cultural resemblance to [[Schil]] is therefore the result of a two-stage migration from Schil to Sator and from Sator to Cthel. The expansion of [[deGraf's]] from its Schil origins through Sator to its later headquarters on [[Typhon]] followed the same corridor, making the company one of its longest-lived institutional links.
+
 ## Political weight
 
-Its one vote is often decisive in the nine-seat Union, especially when [[Collective Commercial Space|CCS]] interests and the two old federations divide the chamber. [[deGraf's]] official headquarters on [[Typhon]] gives a CCS member legal residence inside an independent system while its main industrial presence remains in [[Farspace]]. Cthel's leverage comes from remaining useful to every bloc without belonging to any of them. The Republic can trade its Union vote, access to black-hole and nano-sun research, and deGraf's cross-border logistics while treating permanent alignment as a threat to the independence it won twice.
+Its one vote is often decisive in the nine-seat Union, especially when the [[Concessionary Bloc]] and [[Old World Powers]] divide the chamber. [[deGraf's]] official headquarters on [[Typhon]] gives a [[Collective Commercial Space|CCS Consortium]] member legal residence inside an independent system while its main industrial presence remains in [[Farspace]]. Cthel's leverage comes from remaining useful to every bloc without belonging to any of them. The Republic can trade its Union vote, access to black-hole and nano-sun research, and deGraf's cross-border logistics while treating permanent alignment as a threat to the independence it won twice.
 
 ## Connected notes
 

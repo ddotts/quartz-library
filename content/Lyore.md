@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-09-20T01:32:16.050+02:00
-modified: 2026-09-20T01:32:16.050+02:00
+created: 2026-09-23T14:04:54.331+02:00
+modified: 2026-09-23T23:39:34.021+02:00
 tags:
   - d
   - worlds
 ---
 
 - **Population:** Approximately 310 million residents.
-- **Languages:** [[Common Language|Common (Milessian)]] 78%; [[Deresian|Belter Deresian]] 64%; [[Common Language|Common (Union)]] 52%; [[Planar Languages|Celestial]] 34%; [[Common Language|Common (Dindessian)]] 10%.
+- **Languages:** [[Common Language|Common (Milessian)]] 78%; [[Deresian|Belter Deresian]] 64%; [[Common Language|Common (Bloc)]] 52%; [[Planar Languages|Celestial]] 34%; [[Common Language|Common (Dindessian)]] 10%.
 - **Beliefs:** [[Tsuiseki|Followers of the Path]] 9%; [[Her Church of Light|Her Church of Light]] 6%; [[The Moiety]] 11%; local traditions 25%; atheism 49%.
 
 ## Overview
@@ -21,7 +21,7 @@ From orbit, Lyore is a rust-and-ochre globe scored with pale mineral scars; [[Th
 
 ## The nightside and its people
 
-Its nightside is submerged in [[The Medium]], creating pitch-black nights crossed by occasional pearlescent “shines.” Legacy Aasimar inhabitants arrived through planar shifts from the celestial plane and formed mobile tribes around sacred water towers. The [[Valley of Gods]] is the largest surviving legacy settlement and the only water-tower community still continuously active.
+Its nightside is submerged in [[The Medium]], creating pitch-black nights crossed by occasional pearlescent “shines.” Legacy Aasimar inhabitants arrived through planar shifts from the celestial plane and formed mobile tribes around sacred water towers. They preserve their own kinship, ritual, and community authorities, while later settlement placed trade, mining administration, and intercity travel under institutions tied to distant powers. The [[Valley of Gods]] is the largest surviving legacy settlement and the only water-tower community still continuously active.
 
 ## Settlement
 

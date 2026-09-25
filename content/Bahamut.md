@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-09-20T01:32:16.000+02:00
-modified: 2026-09-20T01:32:16.000+02:00
+created: 2026-09-23T14:04:54.334+02:00
+modified: 2026-09-23T14:04:54.334+02:00
 tags:
   - d
   - worlds
 ---
 
 - **Population:** No permanent residents; approximately 4,000 associated orbital and scientific personnel.
-- **Languages:** Among associated personnel, [[Deresian|Belter Deresian]] 72%; [[Common Language|Common (Union)]] 58%; [[Common Language|Common (Milessian)]] 35%; [[Common Language|Common (Dindessian)]] 12%.
+- **Languages:** Among associated personnel, [[Deresian|Belter Deresian]] 72%; [[Common Language|Common (Bloc)]] 58%; [[Common Language|Common (Milessian)]] 35%; [[Common Language|Common (Dindessian)]] 12%.
 - **Beliefs:** Among associated personnel, [[Tsuiseki|Followers of the Path]] 8%; [[Her Church of Light|Her Church of Light]] 6%; [[The Moiety]] 10%; local traditions 11%; atheism 65%.
 
 ## Overview

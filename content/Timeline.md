@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.093+02:00
-modified: 2026-09-20T01:37:34.821+02:00
+modified: 2026-09-25T15:17:53.679+02:00
 tags:
   - d
   - indexes
@@ -10,6 +10,7 @@ tags:
 ## Before the Astral Calendar
 
 - Around 500 AP: The [[Melissian University of Arcane Practices]] and [[Dindessian Temple of knowledge]] are the earliest known centers of [[Classicism|classical]] magical study.
+- 1432 AP: [[deGraf's]] is founded by a family of surgeons and technomages in [[Schil]].
 - 1448 AP: [[Wyatt Tell]] leads the [[First Cascade Circuit Demonstration]], establishing the empirical basis of [[Proto-realism]].
 - 1500 AP: [[Potemkin 1]] launches.
 - 1620 AP: [[Potemkin 1]] reaches [[Aldan System|Aldan]].
@@ -38,7 +39,6 @@ tags:
 - AC 320: [[OSP3|Potemkin 3]] reaches [[Ertes System|Ertes]]; [[The Odyssey]] reaches [[Cthel System|Cthel]] and creates a Coast node.
 - AC 383: [[The Odyssey]] reaches [[Ertes System|Ertes]] and creates a Coast node.
 - AC 403: [[OSP3|Potemkin 3]] reaches [[Ping]], suffers the Illithid incident, and enters quarantine.
-- AC 412: ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 - AC 419: [[The Odyssey]] reaches [[Godon System|Godon]] and creates a Coast node.
 - AC 436: [[Godel Soret]] establishes [[Romanticism]] at the [[Eden Summit of Universal Academics]].
 - AC 479: [[The Odyssey]] reaches [[Irlan Mining System|Irlan]] and creates a Coast node.
@@ -58,7 +58,7 @@ tags:
 - AC 731: Representatives of thirteen cohorts sign the [[NOX Founding Charter]].
 - AC 797: The [[Nova Independence War]] begins.
 - AC 799: The [[Palade Cataclysm]] renders the planet uninhabitable; the [[Space Commerce Federation|SCF]] relocates to [[Procne]].
-- AC 855: The Corporate and Nova Independence Wars end; the [[Space Commerce Federation|SCF]] dissolves, the [[Collective Commercial Space|CCS]] forms, and Nova and [[Farspace]] gain formal independence.
+- AC 855: The Corporate and Nova Independence Wars end; the [[Space Commerce Federation|SCF]] dissolves, the [[Collective Commercial Space|CCS Consortium]] forms, and Nova and [[Farspace]] gain formal independence. The settlement begins the surface peace later described as the [[Established Order]].
 
 ## Nova and the concessionary era
 

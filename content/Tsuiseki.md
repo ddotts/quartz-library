@@ -4,7 +4,7 @@ aliases:
   - Followers of the Path
   - The Astral Gate
 created: 2026-09-20T01:33:15.229+02:00
-modified: 2026-09-20T01:37:34.770+02:00
+modified: 2026-09-23T23:39:33.600+02:00
 tags:
   - d
   - organizations
@@ -38,9 +38,9 @@ The Chapel governs the Tsuiseki through the [[Tsuiseki Trinity|Trinity]]:
 
 [[Ruby Abyss]] acts as their de facto manufacturing arm. It is officially headquartered on [[Quamridge Mass]] but operates unofficially from [[The Odyssey]] and holds the only commercial license for [[Blue Coast Navigation Package|Blue Coast-compatible navigation packages]].
 
-## Pilgrim Deresian
+## Cultural reach
 
-[[Deresian|Pilgrim Deresian]] developed through [[The Odyssey]] and the humanitarian mission in the [[Broken Isles]]. Its spread through successive [[Blue Coast Node|Coast nodes]] makes it a marker of Tsuiseki service, scholarship, and pilgrimage far beyond Deres.
+The humanitarian mission in the [[Broken Isles]] reshaped the Path into a transplanetary institution. Worship, scholarship, diplomacy, and formal service developed around shared schools and customs aboard [[The Odyssey]] and at successive [[Blue Coast Node|Coast nodes]]. Path education now grants status far beyond Deres, while its hospitallers, scholars, and clergy connect communities that share neither a government nor an ancestry.
 
 ## Demographics
 
@@ -50,6 +50,8 @@ The largest estimated populations outside of [[The Odyssey]] are on [[Eden]] at 
 
 ## Connected notes
 
+- [[New Frontier Powers]]
+- [[Established Order]]
 - [[Inquisition]]
 - [[Cathars]]
 - [[Hospitaller Knights]]

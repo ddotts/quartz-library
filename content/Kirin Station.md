@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.042+02:00
-modified: 2026-09-20T01:32:16.043+02:00
+modified: 2026-09-23T13:59:07.946+02:00
 tags:
   - d
   - locations
@@ -13,4 +13,4 @@ Kirin Station cannot occupy [[Supervoid|the Supervoid]]'s exact center because t
 
 ## Researchers and jurisdiction
 
-[[Tsuiseki]] researchers maintain a significant presence through the [[Cathars]] and the order's origin in Deres, but the station remains subject to Confederation sovereignty and [[Collective Commercial Space|CCS]] concessionary influence rather than neutral extraterritorial law. Emergency transmissions from Kirin are especially valuable because normal communication can be distorted by the charged aether and by disagreements between planar frames.
+[[Tsuiseki]] researchers maintain a significant presence through the [[Cathars]] and the order's origin in Deres, but the station remains subject to Confederation sovereignty and the [[Concessionary Bloc|concessionary order]] rather than neutral extraterritorial law. Emergency transmissions from Kirin are especially valuable because normal communication can be distorted by the charged aether and by disagreements between planar frames.

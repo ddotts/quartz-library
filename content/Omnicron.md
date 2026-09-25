@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Capital Ship Omnicron
 created: 2026-09-20T01:32:16.068+02:00
-modified: 2026-09-20T01:32:16.068+02:00
+modified: 2026-09-25T14:19:01.290+02:00
 tags:
   - d
   - vessels
@@ -15,7 +15,7 @@ Omnicron is capital ship of the [[Space Union]]. The Omnicron is both the Space 
 
 ## The Nonary Rotation
 
-The rotation expresses the Union's unequal representation: the [[Universal Federation]] and the [[Federation of Avergwyn and Aldan]] each hold two seats, while five other member powers hold one apiece. The Omnicron also commands the largest fleet held by a single organization, although the combined [[Collective Commercial Space|CCS]] and Universal Federation fleets remain larger. The route was broken only in AC 854, at the end of the [[Corporate War]], showing that the ship's itinerary is treated as constitutional practice rather than mere logistics.
+The rotation expresses the Union's unequal representation: the [[Universal Federation]] and the [[Confederation of Avergwyn and Aldan]] each hold two seats, while five other member powers hold one apiece. The Omnicron also commands the largest fleet held by a single organization, although the combined [[Collective Commercial Space|CCS Consortium]] and Universal Federation fleets remain larger. The route was broken only in AC 854, at the end of the [[Corporate War]], showing that the ship's itinerary is treated as constitutional practice rather than mere logistics.
 
 ## Open Forms Debate
 
@@ -23,4 +23,4 @@ The Omnicron hosted the AC 711 [[Open Forms Debate]] during its early peaceful r
 
 ## How the rotation shifts power
 
-Because decisions require five of nine votes, every stop in the [[Nonary Rotation]] temporarily magnifies the host system's influence. [[Cthel System|Cthel]]'s swing vote, [[Farspace]] governments operating under [[CCS Concessionary Governance]], and the two double-seat federations turn the ship's physical location into part of coalition politics.
+Because decisions require five of nine votes, every stop in the [[Nonary Rotation]] temporarily magnifies the host system's influence. [[Cthel System|Cthel]]'s swing vote between the [[Concessionary Bloc]] and [[Old World Powers]] turns the ship's physical location into part of coalition politics.
