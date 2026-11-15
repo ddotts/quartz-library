@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Campaign Wiki</title>
+    <link rel="stylesheet" href="./panel.css" />
+    <script type="module" src="./integration.js"></script>
+  </head>
+  <body>
+    <nav aria-label="Wiki controls">
+      <a href="../../" target="wiki">Home</a>
+      <button id="share" hidden disabled>Share page</button>
+      <button id="open-shared" disabled>Open shared page</button>
+    </nav>
+    <p id="status" role="status">Connecting to Owlbear Rodeo…</p>
+    <iframe id="wiki" name="wiki" title="Campaign wiki" src="../../"></iframe>
+  </body>
+</html>

@@ -9,9 +9,11 @@ import type { QuartzPageTypePluginInstance } from "./quartz/plugins/types"
 import ReadingControls from "./quartz/components/ReadingControls"
 import RecentHistory from "./quartz/components/RecentHistory"
 import NoteAliases from "./quartz/components/NoteAliases"
+import { Owlbear } from "./quartz/plugins/emitters/owlbear"
 
 const config = await loadQuartzConfig()
 export default config
+config.plugins.emitters.push(Owlbear())
 
 // Preserve the published map URL after restoring its native Excalidraw extension.
 config.plugins.pageTypes = config.plugins.pageTypes?.map((pageType) => {
