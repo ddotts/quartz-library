@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T01:32:15.996+02:00
-modified: 2026-11-15T02:47:03.494+01:00
+modified: 2026-11-15T04:19:35.725+01:00
 tags:
   - d
   - concepts
@@ -15,22 +15,22 @@ A year has 12 months. Each month consists of four seven-day weeks and always has
 
 ## Month naming
 
-The months had no names before AC 725. Under an earlier agreement, the calendar would adopt names drawn from the systems of the [[Blue Coast]] once [[The Odyssey]] reached [[Nough System|Nough]].
+The months had no names before AC 645. Under an earlier agreement, the calendar would adopt names drawn from the systems of the [[Blue Coast]] once [[The Odyssey]] reached [[Moont System|Moont]].
 
 The names came into use with the Odyssey's arrival at Nough in AC 725. In calendar order, they are
 
 1. [[Aldan System|Aldano]]
 2. [[Barei System|Bareiro]]
-3. [[Cthel System|Cthelo]]
-4. [[Ertes System|Ertesa]]
-5. [[Firan System|Firana]]
-6. [[Godon System|Godona]]
-7. [[Higys System|Higirel]]
-8. [[Irlan Mining System|Irlanel]]
-9. [[Kilnt System|Kilntel]]
-10. [[Lagal System|Lagaleno]]
-11. [[Moont System|Munteno]]
-12. [[Nough System|Nougeno]]
+3. [[Cthel System|Chelo]]
+4. [[Broken Isles|Deresa]]
+5. [[Ertes System|Ertesa]]
+6. [[Firan System|Firana]]
+7. [[Godon System|Godonel]]
+8. [[Higys System|Higirel]]
+9. [[Irlan Mining System|Irlanel]]
+10. [[Kilnt System|Kintres]]
+11. [[Lagal System|Lagares]]
+12. [[Moont System|Montres]]
 
 ## Weekday names
 
