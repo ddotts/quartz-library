@@ -3,11 +3,13 @@ publish: true
 aliases:
   - Weiss
 created: 2026-09-20T01:32:16.103+02:00
-modified: 2026-09-20T01:32:16.104+02:00
+modified: 2026-11-15T03:46:26.525+01:00
 tags:
   - d
   - corporations
 ---
+
+# Weiß
 
 ## Overview
 
@@ -24,3 +26,7 @@ Weiß maintains the galaxy's largest conventional shipping network and the [[Col
 ## Leadership
 
 [[David Smith]] has served as CEO since AC 972.
+
+## Sports sponsorships
+
+Weiß sponsors Oomi's [[Oomi#Gasline Deadshot|Gasline Deadshot]], pairing its logistics reputation with an Aerial 0 circuit built around industrial navigation and emergency towing. It also contributes to the CCS joint sponsorship of [[Portas#Los Cuatro Senderos|Los Cuatro Senderos]].

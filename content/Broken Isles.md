@@ -3,14 +3,18 @@ publish: true
 aliases:
   - Deres System
   - Deres System — Broken Isles
+  - Shatterdance
 created: 2026-09-23T14:04:54.334+02:00
-modified: 2026-09-23T23:39:33.484+02:00
+modified: 2026-11-15T03:46:26.201+01:00
 tags:
   - d
   - regions
 ---
 
+# Broken Isles
+
 - **Population:** Approximately 760 million residents across the surviving fragments and overlapping planes.
+- **Species:** [[Species and Migration|Common distribution]] 70%; Plasmoid 5%; Thri-kreen 5%; Giff 4%; Hadozee 4%; Loxodon 4%; Goliath 4%; Hobgoblin 4%.
 - **Languages:** [[Deresian|Islandic Deresian]] 78%; [[Deresian|Bloc Deresian]] 64%; [[Deresian|Belter Deresian]] 58%; [[Deresian|High Deresian]] 32%; [[Common Language|Common (Bloc)]] 28%.
 - **Beliefs:** [[Tsuiseki|Followers of the Path]] 20%; [[Her Church of Light|Her Church of Light]] 18%; [[The Moiety]] 8%; local traditions 31%; atheism 24%.
 
@@ -45,6 +49,20 @@ Communities descended from different collapsed planes may share a navigational r
 
 Communities drawn from more than fifty worlds, planes, and historical chronologies developed several overlapping forms of belonging. Local institutions preserve the authority of individual fragments. Concessionary courts and commercial offices connect communities to the Bloc. [[Tsuiseki]] schools and service houses connect them to the Path, while docks, crews, and extraction sites sustain a mobile society across the four Seas. People commonly participate in several of these networks without accepting that any one of them represents the whole of Deres.
 
+## Fragment peoples and later migration
+
+Plasmoid and Thri-kreen communities entered Deresian history through the collapse itself. They originated on different worlds, planes, and chronologies rather than in one shared homeland. Contact among fragments drew them into the languages and civic networks that became Deresian society, although fragment origin and Sea affiliation may remain more important than species identity.
+
+Giff, Hadozee, Loxodon, Goliath, and Hobgoblin migrants arrived after the Isles joined the wider transport network. Breathable open space, three-dimensional settlements, armed work, and fragmented jurisdiction allowed crews, military units, refugee flotillas, and transport cooperatives to become permanent communities. Their descendants are divided among Confederation institutions, the concessionary order, local defense movements, and the [[Alliance of Worlds]].
+
+## Fragments of the Isles
+
+The surviving fragments vary in size, environment and settlement. Their relationships to the four Seas are documented unevenly.
+
+- **Gaia.** A lesser-known fragment with surviving urban and coastal landscapes and small pockets of population. The lich Fraga attempted to unite the coastal settlements, met resistance and was exiled. Fraga's whereabouts are unknown. Gaia is a native name adopted in Deresian usage. Other native names include Terra, Tierra, and Earth.
+- **Sandside and Qwarzia.** In Sandside, oases support settlements on low plateaus rising above a sea of dunes. Sandships connect the plateaus, including Qwarzia. The _Gran Indigo_ appears in local accounts of this trade.
+- **Quartus.** An icy fragment with surviving urban remains.
+
 ## Connected notes
 
 - [[Gala]]
@@ -53,3 +71,9 @@ Communities drawn from more than fifty worlds, planes, and historical chronologi
 - [[East Sea]]
 - [[West Sea]]
 - [[North Sea]]
+
+## Racing
+
+### Shatterdance
+
+Shatterdance is an Aerial 0 circuit threaded between drifting island fragments and the inhabited wreckage lashed to them. The course changes as debris fields migrate, so navigators publish a fresh safe line before every meet. [[Cofradia]] sponsors the circuit, its rescue crews, and the provisional route beacons.

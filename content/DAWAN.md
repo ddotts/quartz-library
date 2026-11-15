@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.012+02:00
-modified: 2026-09-20T01:32:16.013+02:00
+modified: 2026-11-15T03:46:26.567+01:00
 tags:
   - d
   - corporations
 ---
+
+# DAWAN
 
 ## Overview
 
@@ -18,3 +20,7 @@ DAWAN moved from [[Quamridge Mass]] to [[Dome Yüceil]] on [[Ping]] in AC 955, t
 ## Competition with Good Doctor
 
 Entered aggressive competition with [[Good Doctor]] after [[Abel Hawkins]] murdered [[Emily Montenegro]] in AC 984.
+
+## Sports sponsorships
+
+DAWAN sponsors [[Mostyn Mirage]], Typhon's [[Typhon#Sonnenkehre|Sonnenkehre]], and Steel League duelist [[Mark One]]. These contracts foreground vehicles, energy systems, automata, and instrumented combat equipment. DAWAN also contributes to [[Portas#Los Cuatro Senderos|Los Cuatro Senderos]].

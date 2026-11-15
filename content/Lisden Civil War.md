@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Lisden Civil War — AC 871–876
 created: 2026-09-20T01:32:16.046+02:00
-modified: 2026-09-20T01:32:16.046+02:00
+modified: 2026-11-14T19:27:21.338+01:00
 tags:
   - d
   - events
@@ -11,7 +11,7 @@ tags:
 
 ## Overview
 
-Racially segregated kingdoms fought for control of [[Lisden]]. Mixed kingdoms formed the [[Fae Alliance|Alliance of Mixed Kingdoms]], later called the Fae Alliance, and accepted [[Bugyn Orda|Orda]] protection while retaining political leadership. Noble assassinations weakened the opposing courts and accelerated the war.
+Elven, Eladrin, and Fairy kingdoms fought for control of [[Lisden]]. Mixed kingdoms formed the [[Fae Alliance|Alliance of Mixed Kingdoms]], later called the Fae Alliance, and accepted [[Bugyn Orda|Orda]] protection while retaining political leadership. Noble assassinations weakened the opposing courts and accelerated the war.
 
 ## The postwar settlement
 

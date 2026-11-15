@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.030+02:00
-modified: 2026-09-20T01:32:16.031+02:00
+modified: 2026-11-15T03:46:26.631+01:00
 tags:
   - d
   - corporations
 ---
+
+# Good Doctor
 
 ## Overview
 
@@ -18,3 +20,7 @@ Is negotiating a move to [[Lyore]], which would make it the first [[Collective C
 ## Rivalry with DAWAN
 
 [[DAWAN]] has since targeted its markets aggressively.
+
+## Sports sponsorships
+
+Good Doctor sponsors [[Nevelput Rising]], Raging Dust driver [[Doutzen Doutzen Doutzen]], and Quamridge Mass's [[Quamridge Mass#Weightworks|Weightworks]]. The program showcases its ground vehicles, reinforced equipment, and species-specific medical support under heavy gravity. Good Doctor also contributes to [[Portas#Los Cuatro Senderos|Los Cuatro Senderos]].

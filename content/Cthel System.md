@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cthel
 created: 2026-09-20T01:32:16.011+02:00
-modified: 2026-09-25T14:34:34.521+02:00
+modified: 2026-11-15T00:33:57.510+01:00
 tags:
   - d
   - systems
@@ -27,6 +27,8 @@ Cthel's black-hole center and [[Typhon]]'s artificial nano-sun make the system's
 ## Settlement from Sator
 
 Much of Cthel's early settlement followed Potemkin 1 from [[Sator]] rather than arriving directly from [[Avergwyn]]. Cthel's cultural resemblance to [[Schil]] is therefore the result of a two-stage migration from Schil to Sator and from Sator to Cthel. The expansion of [[deGraf's]] from its Schil origins through Sator to its later headquarters on [[Typhon]] followed the same corridor, making the company one of its longest-lived institutional links.
+
+The corridor carried substantial Dwarf, Gnome, Bugbear, Goblin, Hobgoblin, Goliath, Dragonborn, Kobold, and Construct communities. Their descendants on Typhon belong to Cthelic society rather than preserving one unchanged Schil identity.
 
 ## Political weight
 

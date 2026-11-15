@@ -5,11 +5,12 @@ aliases:
   - Milessian
   - Dindessian
   - Din Common
+  - Schilean Dindessian
   - Bloc
   - Imperial
   - Thieves' Cant
 created: 2026-09-20T01:32:16.009+02:00
-modified: 2026-09-25T14:34:34.521+02:00
+modified: 2026-11-14T01:43:27.706+01:00
 tags:
   - d
   - languages
@@ -23,3 +24,10 @@ Common is the largest civil language family and the usual bridge among the settl
 - **Thieves' Cant** is a social register rather than a territorial language. Its vocabulary changes with the networks that use it, allowing criminal, clandestine, and marginal communities to communicate across otherwise incompatible Common varieties.
 
 Common spread through administration, trade, military service, and the [[Blue Coast]]. Translation among its varieties is normally possible, but legal and technical terms are less interchangeable than ordinary speech. Imperial-era concepts preserved in the [[Daeson Directive]], for example, may carry meanings that a modern Bloc rendering hides or softens.
+
+## Regional varieties and descendants
+
+- **Naya Milessian** is the familiar variety spoken by generations of [[Eden]]-born families. It is rarely used in formal or official settings.
+- **Firan Creole** is a working-class variety of Bloc spoken on [[Quamridge Mass]] and [[Tybalt]].
+- **Schilean Dindessian** is a regional variety of Dindessian used in [[Schil]] trade.
+- **Cthelic** descends from Schilean Dindessian. Generations in the Hollow and [[Typhon]]’s history of independence movements reshaped it until it bore only a distant resemblance to Dindessian.

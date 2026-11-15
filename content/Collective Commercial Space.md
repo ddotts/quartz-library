@@ -5,11 +5,13 @@ aliases:
   - The Consortium
   - The CCS Consortium
 created: 2026-09-20T01:32:16.008+02:00
-modified: 2026-09-23T14:07:03.655+02:00
+modified: 2026-11-15T03:46:26.912+01:00
 tags:
   - d
   - corporations
 ---
+
+# Collective Commercial Space
 
 ## Overview
 
@@ -70,3 +72,7 @@ Most senior CCS administrators are current or former personnel of [[Weiß]], [[S
 - [[Cofradia]]
 - [[Good Doctor]]
 - [[Vanguard Corps]]
+
+## Sports sponsorships
+
+Every member of the Collective Commercial Space maintains at least one sports sponsorship. Their only consortium-wide joint venture is [[Portas#Los Cuatro Senderos|Los Cuatro Senderos]], whose four disciplines allow financial, medical, industrial, retail, transport, and sporting-goods members to contribute within their own specialties. The arrangement does not prevent members from sponsoring rival athletes, teams, or events elsewhere.

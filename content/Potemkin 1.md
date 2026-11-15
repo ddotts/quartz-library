@@ -4,7 +4,7 @@ aliases:
   - Mothership Potemkin
   - Mothership Potemkin 1
 created: 2026-09-20T01:32:16.073+02:00
-modified: 2026-09-20T01:36:37.511+02:00
+modified: 2026-11-14T21:06:54.705+01:00
 tags:
   - d
   - vessels
@@ -18,7 +18,7 @@ Potemkin 1 is a mothership of the [[Universal Federation]], built on [[Avergwyn]
 
 ## The first outward journey
 
-Potemkin 1 is the first Potemkin-class vessel. It was built on Avergwyn, launched in AP 1500, reached [[Aldan System|Aldan]] around AP 1620, and continued through [[Barei System|Barei]], [[Cthel System|Cthel]], [[Ertes System|Ertes]], and [[Godon System|Godon]] before returning to Core in AC 310. Unlike [[The Odyssey|Potemkin 2]], it never became part of the [[Tsuiseki]] pilgrimage; unlike [[OSP3|Potemkin 3]], it was never converted into a station. Its survival gives the [[Universal Federation]] a direct material link to the earliest era of spaceflight. Potemkin 1 created the Core node after the main Coast had already begun. That exceptional authorship complicates any simple claim that the [[Blue Coast]] belongs solely to the Odyssey or the Tsuiseki.
+Potemkin 1 is the first Potemkin-class vessel. It was built on Avergwyn, launched in AP 1500, reached [[Aldan System|Aldan]] around AP 1620, and continued through [[Barei System|Barei]], [[Cthel System|Cthel]], [[Ertes System|Ertes]], and [[Godon System|Godon]] before returning to Core in AC 310. The original shipyard occupied a sheltered inlet outside [[Eigach]]. Unlike [[The Odyssey|Potemkin 2]], it never became part of the [[Tsuiseki]] pilgrimage; unlike [[OSP3|Potemkin 3]], it was never converted into a station. Its survival gives the [[Universal Federation]] a direct material link to the earliest era of spaceflight. Potemkin 1 created the Core node after the main Coast had already begun. That exceptional authorship complicates any simple claim that the [[Blue Coast]] belongs solely to the Odyssey or the Tsuiseki.
 
 ## Early operational profile
 

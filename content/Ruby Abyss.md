@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.081+02:00
-modified: 2026-09-20T01:37:34.849+02:00
+modified: 2026-11-15T03:46:26.670+01:00
 tags:
   - d
   - corporations
 ---
+
+# Ruby Abyss
 
 ## Overview
 
@@ -18,3 +20,7 @@ Functions in practice as the [[Tsuiseki]]'s manufacturing arm. One of only two m
 ## Navigation and counterintelligence
 
 Its counterintelligence services create dependencies among other [[Collective Commercial Space|CCS]] members. Ruby Abyss holds an exclusive [[Inquisition]] military-laser contract and the only commercial license for [[Blue Coast Navigation Package|Blue Coast-compatible navigation packages]]. Ruby Abyss reports from rival CCS security offices describe an internal Ruby Abyss red team called [[Cherry Inc|Cherry Inc.]] Ruby Abyss does not acknowledge the unit, and allegations that it has attacked other CCS members remain unverified.
+
+## Sports sponsorships
+
+Ruby Abyss sponsors Aerial X pilot [[BEST MAN]] and Ping's [[Ping#Fractal Test Run|Fractal Test Run]], using both to promote navigation, computation, communications, and bare-metal vehicle systems. It also contributes to [[Portas#Los Cuatro Senderos|Los Cuatro Senderos]].

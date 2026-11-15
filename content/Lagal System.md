@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Lagal
 created: 2026-09-20T01:32:16.043+02:00
-modified: 2026-09-20T01:32:16.044+02:00
+modified: 2026-11-15T00:33:35.180+01:00
 tags:
   - d
   - systems
@@ -24,6 +24,8 @@ Lagal System joined the [[Blue Coast]] in AC 639. Lagal System contains several 
 ## Stations and extraction
 
 [[Unzan Station]] operates around the largest giant; smaller extraction sites serve [[Soplo]] and [[Festo]]. Lagal’s cool primary star allows extraction infrastructure to orbit relatively close without extreme thermal stress. Most workers rotate in from [[Lyore]] and Santa Maria; few residents remain permanently.
+
+Aarakocra residents form eight percent of the associated gas-giant habitat population, beside a ninety-two-percent [[Species and Migration|Common distribution]]. Their communities connect Unzan, Soplo, Festo, Oomi, and other atmospheric sites through marriages, apprenticeships, religious visits, and labor organizing rather than allegiance to one planet.
 
 ## The Long Shift
 

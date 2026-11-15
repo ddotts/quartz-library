@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.102+02:00
-modified: 2026-09-20T01:32:16.102+02:00
+modified: 2026-11-15T03:46:26.652+01:00
 tags:
   - d
   - corporations
 ---
+
+# Vineflare
 
 ## Overview
 
@@ -18,3 +20,9 @@ Avoided the [[Corporate War]] and joined the [[Collective Commercial Space|CCS]]
 ## The apprentice school and heirlooms
 
 Vineflare maintains an apprentice school on [[Avergwyn]]. Vineflare produces limited Heirloom Series weapons bonded to individual owners through arcane registration. [[Maria Vineflare]] has served as CEO since AC 995.
+
+Some graduates of the Avergwyn apprentice school seek work in Ashapura on the [[Devraj Plain]]. The school occupies a rail town west of Ashapura.
+
+## Sports sponsorships
+
+Vineflare sponsors [[United Meteor Hammers]], the [[Opera#Hourglass Run|Hourglass Run]], and the [[Avergwyn#Imperio Rally|Imperio Rally]]. It also sponsored retired Aerial champion [[Owain Prys]], whose present technical journalism remains publicly associated with the company's transport and power systems. Vineflare contributes to [[Portas#Los Cuatro Senderos|Los Cuatro Senderos]].

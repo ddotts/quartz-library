@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.071+02:00
-modified: 2026-09-20T01:32:16.071+02:00
+modified: 2026-11-10T20:22:07.150+01:00
 tags:
   - d
   - worlds
@@ -30,3 +30,9 @@ Palade was the [[Imperium]]'s capital from [[Redmond Daeson|Daeson]]'s coronatio
 ## An abandoned archive
 
 The planet is abandoned, but its former status means surviving records or material evidence could alter the accepted history of the [[Corporate War]]. The [[Plane Shift Disaster]] at [[Dome Yüceil]] in AC 970 gives Palade a new comparative case. Both were arcane catastrophes with major political casualties, but only the later event has modern witnesses and an explicit comparison to the shifts of [[Kur]]; investigators who link the two risk reopening accusations the AC 855 settlement never resolved.
+
+## Physical characteristics
+
+- **Diameter:** Approximately 10,890 km.
+- **Surface gravity:** Approximately 0.95 g.
+- **Mean density:** Approximately 6.13 g/cm³.

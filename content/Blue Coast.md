@@ -3,7 +3,7 @@ publish: true
 aliases:
   - the Coast
 created: 2026-09-20T01:32:16.004+02:00
-modified: 2026-09-20T01:36:37.415+02:00
+modified: 2026-11-15T00:33:35.196+01:00
 tags:
   - d
   - regions
@@ -22,6 +22,10 @@ Travel through the Coast can require route-specific authorization. The network i
 ## Aid and authority
 
 Every major node supports a Hospitaller chapter-house and, through it, [[Red Feather]] logistics. The Coast is therefore simultaneously transport infrastructure, a [[Tsuiseki]] pilgrimage trail, and the backbone of galactic emergency aid. The most politically sensitive point in the network is not ownership of the rings but control of their approaches. Local governments police the surrounding space, [[Ruby Abyss]] supplies the licensed navigation layer, and the Tsuiseki claim authority over the nodes themselves; every transit therefore crosses three overlapping jurisdictions. Hospitaller chapter-houses keep independent arrival ledgers for rescue and epidemiological work. Those records are indispensable during disasters, but their existence also gives the Tsuiseki a uniquely complete picture of movement across the galaxy and makes the Coast's humanitarian neutrality a recurring political question.
+
+## Mobile diasporas
+
+The Coast connects mobile communities formed through shipbuilding, war, trade, displacement, pilgrimage, and preference for station life. Across major stations and mobile settlements, the rough demographic pattern is a sixty-four-percent [[Species and Migration|Common distribution]], with Hadozee, Kenku, Thri-kreen, Tabaxi, Gnome, Bugbear, Goblin, Plasmoid, and Construct communities at approximately four percent each. These are not one culture: political loyalty commonly attaches to a vessel, guild, station, fleet, religion, or mobile nation rather than an ancestral planet.
 
 ## Connected notes
 

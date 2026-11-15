@@ -1,11 +1,15 @@
 ---
 publish: true
+aliases:
+  - Abyss Dive
 created: 2026-09-23T14:04:54.334+02:00
-modified: 2026-09-23T14:04:54.334+02:00
+modified: 2026-11-15T03:46:26.328+01:00
 tags:
   - d
   - worlds
 ---
+
+# Bahamut
 
 - **Population:** No permanent residents; approximately 4,000 associated orbital and scientific personnel.
 - **Languages:** Among associated personnel, [[Deresian|Belter Deresian]] 72%; [[Common Language|Common (Bloc)]] 58%; [[Common Language|Common (Milessian)]] 35%; [[Common Language|Common (Dindessian)]] 12%.
@@ -26,3 +30,9 @@ Its atmosphere is dominated by carbon dioxide and sulfuric vapor; descent probes
 ## Protected orbit
 
 [[Nightwatch]] classifies the planet as a scientific reserve and restricts orbital flyovers. Its moon is [[Eoccenon]].
+
+## Racing
+
+### Abyss Dive
+
+The **Abyss Dive** is an Aerial X circuit that begins above Bahamut's cloud deck and descends into a storm-dark atmospheric trench before climbing back to the finish. [[BLACK LABEL]] sponsors the event, while independent rescue crews retain authority to close the descent when pressure or lightning exceeds the circuit's safety envelope.

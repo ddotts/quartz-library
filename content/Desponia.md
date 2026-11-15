@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.016+02:00
-modified: 2026-09-20T01:32:16.016+02:00
+modified: 2026-11-14T21:06:54.711+01:00
 tags:
   - d
   - locations
@@ -10,6 +10,10 @@ tags:
 ## Overview
 
 Desponia is the galaxy’s largest datacenter, located at the north pole of [[Demeter]]. [[Ruby Abyss]] ([[Collective Commercial Space|CCS]], navigation/computation) operates the second largest non-Bank private datacenter in known space, described specifically as second only to Desponia. Desponia is the largest datacenter in known space and the benchmark against which Ruby Abyss's private installation is measured.
+
+Low intake buildings at [[Demeter]]’s north pole stand above long enclosed server halls. Cooling plant and service passages divide the halls into blocks.
+
+Seasonal freight from the [[Hollis Belt]] reaches the north polar intake by the northern supply road.
 
 ## Strategic importance
 

@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.008+02:00
-modified: 2026-09-20T01:32:16.008+02:00
+modified: 2026-11-15T03:46:26.586+01:00
 tags:
   - d
   - corporations
 ---
+
+# Cofradia
 
 ## Overview
 
@@ -18,3 +20,7 @@ Cofradia members have continuously held Deresian administrative offices since 18
 ## Leadership
 
 [[Aldarro Ralei]] has served as CEO since AC 971.
+
+## Sports sponsorships
+
+Cofradia sponsors [[Danica Radović]] and the Aerial circuits [[Broken Isles#Shatterdance|Shatterdance]] and [[Kirin Station#Void Curba|Void Curba]]. Its navigation and vessel expertise is most visible in route plotting, beacon deployment, and rescue coordination. Cofradia also contributes to [[Portas#Los Cuatro Senderos|Los Cuatro Senderos]].

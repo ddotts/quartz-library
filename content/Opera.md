@@ -1,11 +1,15 @@
 ---
 publish: true
+aliases:
+  - Hourglass Run
 created: 2026-09-23T14:04:54.330+02:00
-modified: 2026-09-25T14:34:34.520+02:00
+modified: 2026-11-15T03:46:26.181+01:00
 tags:
   - d
   - worlds
 ---
+
+# Opera
 
 - **Population:** No natural residents; approximately 130,000 industrial workers live in artificial habitats.
 - **Languages:** Among habitat workers, [[Common Language|Common (Dindessian)]] 65%; [[Deresian|Belter Deresian]] 62%; [[Common Language|Common (Milessian)]] 52%; [[Common Language|Common (Bloc)]] 35%.
@@ -14,3 +18,7 @@ tags:
 Opera is an uninhabitable, resource-rich world orbiting with [[Sator]] in the [[Aldan System]]. It is an airless metallic-gray globe streaked with exposed copper, cobalt, and iridescent mineral strata. Opera supplies material to the [[Rotator Stations]], whose position between the two worlds gives them ready access to both resources and Sator's labor force.
 
 Opera's industrial habitats reproduce Sator's [[Schil]]-rooted workforce more strongly than its planetary average. Schil community traditions and secular labor institutions coexist with administrations tied to Avergwyn's older political centers. The habitats also supplied technical crews for the later migration from Sator to [[Cthel System|Cthel]].
+
+## Racing
+
+Opera hosts the **Hourglass Run**, an Aerial 0 course built around two rotating station lobes joined by a narrow central crossing. [[Vineflare]] sponsors the circuit, whose timing windows made it a defining race of [[Owain Prys]]'s career.

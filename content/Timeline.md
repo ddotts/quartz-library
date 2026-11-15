@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T01:32:16.093+02:00
-modified: 2026-09-25T15:17:53.679+02:00
+modified: 2026-11-14T19:27:21.339+01:00
 tags:
   - d
   - indexes
@@ -10,7 +10,9 @@ tags:
 ## Before the Astral Calendar
 
 - Around 500 AP: The [[Melissian University of Arcane Practices]] and [[Dindessian Temple of knowledge]] are the earliest known centers of [[Classicism|classical]] magical study.
-- 1432 AP: [[deGraf's]] is founded by a family of surgeons and technomages in [[Schil]].
+- 14th century AP — The Melissian Federation strikes the rebellious Duchy of Rham. The [[Devastation of Rham]] alters Avergwyn’s anima, causing the dead to return in Schil and along the Dindessian frontier.
+- 14th century AP — The [[Great War of Ecria]] ends at the Battle of Saira Da. The Himmelgruft is destroyed, the Orchidee guilds defeat the Dissidence, and Schil and Dindessia open peace talks.
+- 1432 AP: Dona Graf founds [[deGraf's]] in [[Schil]].
 - 1448 AP: [[Wyatt Tell]] leads the [[First Cascade Circuit Demonstration]], establishing the empirical basis of [[Proto-realism]].
 - 1500 AP: [[Potemkin 1]] launches.
 - 1620 AP: [[Potemkin 1]] reaches [[Aldan System|Aldan]].
@@ -62,7 +64,7 @@ tags:
 
 ## Nova and the concessionary era
 
-- AC 871–876: The [[Lisden Civil War]] ends with creation of the [[Fae Court]] and confirmation of the [[Bugyn Orda|Orda]] as Protectors of Peace.
+- AC 871–876: In the [[Lisden Civil War]], the [[Fae Alliance]] and [[Bugyn Orda|Orda]] prevail over the Elven, Eladrin, and Fairy kingdoms. The victorious Houses form the [[Fae Court]] and confirm the Orda as Protectors of Peace.
 - AC 889: [[Anais Lamar]] gives [[Surrealism]] its first stable formulation at the [[Eden Summit of Universal Academics]].
 - AC 904: The [[First CCS Summit]] is held; the [[Alliance of Worlds]] forms.
 - AC 930: [[Nightwatch]] formalization begins.
