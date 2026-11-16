@@ -1,4 +1,5 @@
 export const SHARED_PAGE_KEY = "com.ddotts.quartz-library/shared-page"
+export const OPENED_PAGE_CHANNEL = "com.ddotts.quartz-library/opened-page"
 
 export interface SharedPage {
   id: string

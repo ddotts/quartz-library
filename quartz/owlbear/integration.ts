@@ -1,5 +1,11 @@
 import OBR from "@owlbear-rodeo/sdk"
-import { readSharedPage, SHARED_PAGE_KEY, wikiPageUrl, type SharedPage } from "./sharedPage"
+import {
+  OPENED_PAGE_CHANNEL,
+  readSharedPage,
+  SHARED_PAGE_KEY,
+  wikiPageUrl,
+  type SharedPage,
+} from "./sharedPage"
 
 const siteRoot = new URL("../../", location.href)
 const frame = document.querySelector<HTMLIFrameElement>("#wiki")
@@ -15,6 +21,22 @@ function report(message: string) {
 async function start() {
   let shared: SharedPage | undefined
   let observedChange = false
+  const notifications: { shareId: string; notification: Promise<string> }[] = []
+  if (!frame) {
+    const connectionId = await OBR.player.getConnectionId()
+    OBR.broadcast.onMessage(OPENED_PAGE_CHANNEL, (event) => {
+      if (event.connectionId !== connectionId) return
+      const index = notifications.findIndex((notice) => notice.shareId === event.data)
+      if (index === -1) return
+      // Opening a newer share also clears notices for the pages it replaced.
+      // Keep any share that arrived while this page was loading.
+      for (const notice of notifications.splice(0, index + 1)) {
+        void notice.notification
+          .then((id) => OBR.notification.close(id))
+          .catch(() => report("Could not dismiss the shared-page notification."))
+      }
+    })
+  }
   const receive = (metadata: Record<string, unknown>, notify: boolean) => {
     const next = readSharedPage(metadata[SHARED_PAGE_KEY], siteRoot)
     const changed = next?.id !== shared?.id
@@ -29,17 +51,14 @@ async function start() {
       void OBR.action.setBadgeText(shared ? "•" : undefined).catch(() => {
         report("Could not update the wiki badge.")
       })
-      if (notify && shared)
-        void OBR.notification
-          .show(`Wiki: ${shared.title}. Open Campaign Wiki to read the shared page.`, "INFO")
-          .then((id) => {
-            window.setTimeout(() => {
-              void OBR.notification.close(id).catch(() => {
-                report("Could not dismiss the shared-page notification.")
-              })
-            }, 6000)
-          })
-          .catch(() => report("Could not show the shared-page notification."))
+      if (notify && shared) {
+        const notification = OBR.notification.show(
+          `Wiki: ${shared.title}. Click Open shared page in Campaign Wiki to read it.`,
+          "INFO",
+        )
+        notifications.push({ shareId: shared.id, notification })
+        void notification.catch(() => report("Could not show the shared-page notification."))
+      }
     }
   }
   OBR.room.onMetadataChange((metadata) => {
@@ -49,8 +68,27 @@ async function start() {
   const metadata = await OBR.room.getMetadata()
   if (!observedChange) receive(metadata, false)
 
+  let opening: SharedPage | undefined
+  frame?.addEventListener("load", () => {
+    if (!opening) return
+    try {
+      if (frame.contentWindow?.location.href !== opening.url) return
+    } catch {
+      return // An external link may finish loading before the requested wiki page.
+    }
+    const openedId = opening.id
+    opening = undefined
+    void OBR.broadcast
+      .sendMessage(OPENED_PAGE_CHANNEL, openedId, { destination: "LOCAL" })
+      .catch(() =>
+        report("Page opened, but its notification could not be dismissed. Try opening it again."),
+      )
+  })
   open?.addEventListener("click", () => {
-    if (shared && frame) frame.src = shared.url
+    if (shared && frame) {
+      opening = shared
+      frame.src = shared.url
+    }
   })
   share?.addEventListener("click", () => {
     void (async () => {
