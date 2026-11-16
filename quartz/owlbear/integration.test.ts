@@ -3,7 +3,7 @@ import { setImmediate } from "node:timers/promises"
 import { runInNewContext } from "node:vm"
 import { build } from "esbuild"
 import test from "node:test"
-import { SHARED_PAGE_KEY } from "./sharedPage"
+import { OPENED_PAGE_CHANNEL, SHARED_PAGE_KEY } from "./sharedPage"
 
 const bundle = await build({
   entryPoints: ["quartz/owlbear/integration.ts"],
@@ -32,13 +32,16 @@ const page = (id: string) => ({
   url: `https://ddotts.github.io/quartz-library/note-${id}`,
 })
 
-async function fixture(panel = false, role = "PLAYER") {
+async function fixture(panel = false, role = "PLAYER", deferNotification = false) {
   const notifications = new Set<string>()
   const updates: Record<string, unknown>[] = []
   const timers: { callback: () => void; ms: number }[] = []
   const elements = new Map<string, ReturnType<typeof element>>()
   const errors: string[] = []
+  const broadcasts: { channel: string; data: unknown; destination: string }[] = []
   let onMetadata = (_metadata: Record<string, unknown>) => {}
+  let onOpened = (_event: { connectionId: string; data: unknown }) => {}
+  let resolveShow = () => {}
   function element() {
     const listeners = new Map<string, () => void>()
     return {
@@ -53,6 +56,10 @@ async function fixture(panel = false, role = "PLAYER") {
       },
       addEventListener: (event: string, callback: () => void) => listeners.set(event, callback),
       click: () => listeners.get("click")?.(),
+      load(url: string) {
+        this.contentWindow.location.href = url
+        listeners.get("load")?.()
+      },
     }
   }
   if (panel)
@@ -69,7 +76,20 @@ async function fixture(panel = false, role = "PLAYER") {
     __obr: {
       isAvailable: true,
       onReady: (callback: () => void) => callback(),
-      player: { getRole: async () => role, onChange: () => {} },
+      player: {
+        getRole: async () => role,
+        getConnectionId: async () => "local",
+        onChange: () => {},
+      },
+      broadcast: {
+        onMessage: (channel: string, callback: typeof onOpened) => {
+          assert.equal(channel, OPENED_PAGE_CHANNEL)
+          onOpened = callback
+        },
+        sendMessage: async (channel: string, data: unknown, options: { destination: string }) => {
+          broadcasts.push({ channel, data, destination: options.destination })
+        },
+      },
       room: {
         getMetadata: async () => ({}),
         onMetadataChange: (callback: typeof onMetadata) => (onMetadata = callback),
@@ -79,6 +99,7 @@ async function fixture(panel = false, role = "PLAYER") {
       notification: {
         show: async (message: string) => {
           notifications.add(message)
+          if (deferNotification) await new Promise<void>((resolve) => (resolveShow = resolve))
           return message
         },
         close: async (id: string) => notifications.delete(id),
@@ -86,22 +107,58 @@ async function fixture(panel = false, role = "PLAYER") {
     },
   })
   await setImmediate()
-  return { notifications, updates, timers, elements, errors, receive: onMetadata }
+  return {
+    notifications,
+    updates,
+    timers,
+    elements,
+    errors,
+    broadcasts,
+    receive: onMetadata,
+    receiveOpened: (data: unknown, connectionId = "local") => onOpened({ connectionId, data }),
+    resolveNotification: () => resolveShow(),
+  }
 }
 
-test("shared-page notifications close after six seconds, including overlapping shares", async () => {
+test("notifications stay until this participant opens the shared page", async () => {
   const app = await fixture()
+  const other = await fixture()
   app.receive({ [SHARED_PAGE_KEY]: page("1") })
-  app.receive({ [SHARED_PAGE_KEY]: page("2") })
+  other.receive({ [SHARED_PAGE_KEY]: page("1") })
   await setImmediate()
-  assert.equal(app.notifications.size, 2)
-  for (const timer of app.timers) {
-    assert.equal(timer.ms, 6000)
-    timer.callback()
-  }
+  assert.equal(app.notifications.size, 1)
+  assert.equal(app.timers.length, 0)
+  app.receiveOpened("1", "another-player")
+  app.receiveOpened("unknown-share")
+  await setImmediate()
+  assert.equal(app.notifications.size, 1)
+  app.receiveOpened("1")
   await setImmediate()
   assert.equal(app.notifications.size, 0)
+  assert.equal(other.notifications.size, 1)
   assert.deepEqual(app.errors, [])
+})
+
+test("opening an older share leaves newer notifications until those pages are opened", async () => {
+  const app = await fixture()
+  for (const id of ["1", "2", "3"]) app.receive({ [SHARED_PAGE_KEY]: page(id) })
+  await setImmediate()
+  app.receiveOpened("2")
+  await setImmediate()
+  assert.equal(app.notifications.size, 1)
+  assert.match([...app.notifications][0], /Note 3/)
+  app.receiveOpened("3")
+  await setImmediate()
+  assert.equal(app.notifications.size, 0)
+})
+
+test("an acknowledgement before the notification ID resolves still dismisses it", async () => {
+  const app = await fixture(false, "PLAYER", true)
+  app.receive({ [SHARED_PAGE_KEY]: page("1") })
+  app.receiveOpened("1")
+  app.resolveNotification()
+  await setImmediate()
+  assert.equal(app.notifications.size, 0)
 })
 
 test("players can share a page without changing another reader's page", async () => {
@@ -118,8 +175,17 @@ test("players can share a page without changing another reader's page", async ()
   const frame = app.elements.get("#wiki")!
   app.receive({ [SHARED_PAGE_KEY]: page("2") })
   assert.equal(frame.src, "https://ddotts.github.io/quartz-library/")
+  assert.equal(app.broadcasts.length, 0)
   app.elements.get("#open-shared")!.click()
   assert.equal(frame.src, page("2").url)
+  assert.equal(app.broadcasts.length, 0)
+  frame.load(page("1").url)
+  assert.equal(app.broadcasts.length, 0)
+  app.receive({ [SHARED_PAGE_KEY]: page("3") })
+  frame.load(page("2").url)
+  assert.deepEqual(app.broadcasts, [
+    { channel: OPENED_PAGE_CHANNEL, data: "2", destination: "LOCAL" },
+  ])
 })
 
 test("GMs receive shared-page notifications too", async () => {

@@ -20,9 +20,11 @@ https://ddotts.github.io/quartz-library/static/owlbear/manifest.json
 Enable **Quartz Library** in your room, then click **Campaign Wiki** to search and
 browse the wiki in a 600 × 700 panel. Each participant browses independently.
 Anyone can click **Share page** to share the current page with the room. Everyone
-receives an Owlbear notification that dismisses after six seconds, even with the
-panel closed, and can click
-**Open shared page** in the panel when they want to read it. Sharing never
+receives an Owlbear notification, even with the panel closed, and can click
+**Open shared page** in the panel when they want to read it. The notification
+stays until that participant opens the shared page; opening the panel alone
+does not dismiss it. Opening the latest share also dismisses that participant's
+notifications for earlier shares it replaced. Sharing never
 automatically changes another participant's page. **Home** returns to wiki search.
 
 The room stores only the latest shared URL and title, available to late joiners
@@ -57,8 +59,8 @@ See the [Owlbear manifest reference](https://docs.owlbear.rodeo/extensions/refer
 for the extension format. Room sharing uses the SDK and a background listener;
 no additional manifest permissions are required. Verify the live integration with
 a GM and player in the same room: share from each role with the other's panel
-closed, check that the notification dismisses after six seconds, open the panel,
-then open the shared page. Also check that sharing
+closed, check that the notification stays when opening the panel, then check that
+it dismisses only for that participant after opening the shared page. Also check that sharing
 leaves a player's current page alone and survives closing and reopening the panel.
 
 ## Sponsors
