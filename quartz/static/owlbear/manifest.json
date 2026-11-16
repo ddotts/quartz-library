@@ -1,16 +1,16 @@
 {
   "name": "Quartz Library",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "manifest_version": 1,
   "description": "Browse the campaign wiki and share pages with players inside Owlbear Rodeo.",
   "author": "ddotts",
   "icon": "https://ddotts.github.io/quartz-library/static/icon.png",
   "homepage_url": "https://ddotts.github.io/quartz-library/",
-  "background_url": "https://ddotts.github.io/quartz-library/static/owlbear/background.html?v=0.1.0",
+  "background_url": "https://ddotts.github.io/quartz-library/static/owlbear/background.html?v=0.1.1",
   "action": {
     "title": "Campaign Wiki",
     "icon": "https://ddotts.github.io/quartz-library/static/icon.png",
-    "popover": "https://ddotts.github.io/quartz-library/static/owlbear/panel.html?v=0.1.0",
+    "popover": "https://ddotts.github.io/quartz-library/static/owlbear/panel.html?v=0.1.1",
     "width": 600,
     "height": 700
   }

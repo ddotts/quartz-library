@@ -15,14 +15,6 @@ function report(message: string) {
 async function start() {
   let shared: SharedPage | undefined
   let observedChange = false
-  let isGM = (await OBR.player.getRole()) === "GM"
-  const updateRole = (role: string) => {
-    isGM = role === "GM"
-    if (share) share.hidden = !isGM
-  }
-  updateRole(isGM ? "GM" : "PLAYER")
-  OBR.player.onChange((player) => updateRole(player.role))
-
   const receive = (metadata: Record<string, unknown>, notify: boolean) => {
     const next = readSharedPage(metadata[SHARED_PAGE_KEY], siteRoot)
     const changed = next?.id !== shared?.id
@@ -37,9 +29,16 @@ async function start() {
       void OBR.action.setBadgeText(shared ? "•" : undefined).catch(() => {
         report("Could not update the wiki badge.")
       })
-      if (notify && shared && !isGM)
+      if (notify && shared)
         void OBR.notification
           .show(`Wiki: ${shared.title}. Open Campaign Wiki to read the shared page.`, "INFO")
+          .then((id) => {
+            window.setTimeout(() => {
+              void OBR.notification.close(id).catch(() => {
+                report("Could not dismiss the shared-page notification.")
+              })
+            }, 6000)
+          })
           .catch(() => report("Could not show the shared-page notification."))
     }
   }
@@ -57,7 +56,6 @@ async function start() {
     void (async () => {
       share.disabled = true
       try {
-        if ((await OBR.player.getRole()) !== "GM") return
         const current = frame?.contentWindow
         const url = current && wikiPageUrl(current.location.href, siteRoot)
         if (!url) throw new Error("Open a wiki page before sharing.")
@@ -76,7 +74,10 @@ async function start() {
       }
     })()
   })
-  if (share) share.disabled = false
+  if (share) {
+    share.hidden = false
+    share.disabled = false
+  }
   if (status && !shared) report("Browse independently, or open the room's latest shared page.")
 }
 
