@@ -19,16 +19,16 @@ https://ddotts.github.io/quartz-library/static/owlbear/manifest.json
 
 Enable **Quartz Library** in your room, then click **Campaign Wiki** to search and
 browse the wiki in a 600 × 700 panel. Each participant browses independently.
-The GM can click **Share page** to share the current page with the room. Players
-receive an Owlbear notification, even with the panel closed, and can click
+Anyone can click **Share page** to share the current page with the room. Everyone
+receives an Owlbear notification that dismisses after six seconds, even with the
+panel closed, and can click
 **Open shared page** in the panel when they want to read it. Sharing never
 automatically changes another participant's page. **Home** returns to wiki search.
 
 The room stores only the latest shared URL and title, available to late joiners
 and after reopening the panel. A dot on the extension icon means a shared page
-is available. Each new share replaces the previous link. Sharing controls are
-shown only to GMs and recheck the current role before writing room metadata;
-this is a UI restriction, not a separate server-enforced access boundary.
+is available. Each new share replaces the previous link. Both GMs and players
+can share pages.
 Page contents and decryption passwords are not sent to Owlbear. Shared URLs omit
 query parameters, and encrypted pages still require each reader's password.
 
@@ -56,8 +56,9 @@ in an authenticated Owlbear room.
 See the [Owlbear manifest reference](https://docs.owlbear.rodeo/extensions/reference/manifest/)
 for the extension format. Room sharing uses the SDK and a background listener;
 no additional manifest permissions are required. Verify the live integration with
-a GM and player in the same room: share with the player's panel closed, check the
-notification, open the panel, then open the shared page. Also check that sharing
+a GM and player in the same room: share from each role with the other's panel
+closed, check that the notification dismisses after six seconds, open the panel,
+then open the shared page. Also check that sharing
 leaves a player's current page alone and survives closing and reopening the panel.
 
 ## Sponsors
